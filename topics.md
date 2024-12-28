@@ -1002,6 +1002,7 @@
 
 ## others 
 
+- [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 - [CodePhiliaX/fastexcel](https://github.com/CodePhiliaX/fastexcel) - easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
 - [megasanjay/vue3-marquee](https://github.com/megasanjay/vue3-marquee) - A simple marquee component with ZERO dependencies for Vue 3.
 - [lilxyzw/lilycalInventory](https://github.com/lilxyzw/lilycalInventory) - Modify avatar at build time.
