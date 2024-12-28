@@ -506,6 +506,7 @@
 
 ## TypeScript 
 
+- [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [thisoverride/BoothSDK](https://github.com/thisoverride/BoothSDK) - A powerful BoothSDK designed to efficiently extract comprehensive product information from Booth.pm, a leading e-commerce platform. This toolkit streamlines the process of accessing and integrating pr
 - [m31coding/fuzzy-search](https://github.com/m31coding/fuzzy-search) - A fast, accurate and multilingual fuzzy search library for the frontend.
