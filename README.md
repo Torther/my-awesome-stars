@@ -463,6 +463,7 @@
 
 ## Shell 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [soulteary/docker-sso-server](https://github.com/soulteary/docker-sso-server) - Lightweight 🪶 self-hosted SSO server, resource utilization rate is &lt;1% CPU, MEM &lt;15 M
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
