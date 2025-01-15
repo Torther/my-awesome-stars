@@ -384,6 +384,7 @@
 
 ## Python 
 
+- [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [RimoChan/ConfusionXL](https://github.com/RimoChan/ConfusionXL) - ConfusionXL V2.0 - 世界上最好的2次元模型
 - [Project-Babble/ProjectBabble](https://github.com/Project-Babble/ProjectBabble) - An open-source mouth tracking method for VR
 - [Moemu/Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot) - 沐雪，一个会自动找你聊天的AI女孩子
