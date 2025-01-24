@@ -1186,7 +1186,6 @@
 - [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
 - [px-org/PanIndex](https://github.com/px-org/PanIndex) - Network disk directory index / 网盘目录索引
 - [RimoChan/match-you](https://github.com/RimoChan/match-you) - 【您配吗】配你吗
-- [RBQUniversity/About](https://github.com/RBQUniversity/About) - About RBQ University
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [HibiKier/zhenxun_bot](https://github.com/HibiKier/zhenxun_bot) - 基于 Nonebot2 开发，非常可爱的绪山真寻bot
 - [Kyomotoi/ATRI](https://github.com/Kyomotoi/ATRI) - A project for ATRI, use go-cqhttp and Nonebot2.
