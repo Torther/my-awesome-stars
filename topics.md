@@ -1073,7 +1073,7 @@
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
 - [moshstudio/TAICHI-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
 - [errorer/Portal_StillAlive_Python](https://github.com/errorer/Portal_StillAlive_Python) - A demo of the credit song 'Still Alive' of Portal 1 written in Python, running in 80x24 text terminal
-- [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
+- [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria2一键搞定。
 - [xrr2016/tata](https://github.com/xrr2016/tata) - 简洁的toast提示
 - [reeceyng/v2ray-agent](https://github.com/reeceyng/v2ray-agent) - 【纯净版】原八合一共存脚本，去除广告等推广信息，支持xtls-rprx-vision
 - [kazutoiris/ali_ecc](https://github.com/kazutoiris/ali_ecc) - AliyunDrive ECC Signature
