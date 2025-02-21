@@ -199,7 +199,7 @@
 - [imaegoo/idea-serverless](https://github.com/imaegoo/idea-serverless) - WIP: 基于阿里云函数计算部署的 IntelliJ IDEA Web IDE
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [MapleDust/VelocityChat](https://github.com/MapleDust/VelocityChat) - 一个我的世界Velocity群组跨服聊天的插件
-- [dromara/hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet.
+- [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 - [RedSpider1/concurrent](https://github.com/RedSpider1/concurrent) - 这是RedSpider社区成员原创与维护的Java多线程系列文章。
 - [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
@@ -278,6 +278,7 @@
 
 ## Kotlin 
 
+- [kotlin-orm/ktorm](https://github.com/kotlin-orm/ktorm) - A lightweight ORM framework for Kotlin with strong-typed SQL DSL and sequence APIs.
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [Torther/DroidCast_raw](https://github.com/Torther/DroidCast_raw) - A tool for capturing and displaying screenshot of an Android device / emulator without ROOT permission.
 - [diyigemt/arona-reborn](https://github.com/diyigemt/arona-reborn) - 万一成了呢
