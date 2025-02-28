@@ -509,6 +509,7 @@
 
 ## TypeScript 
 
+- [hannoeru/vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator for ⚡️Vite
 - [chrononeko/chronocat](https://github.com/chrononeko/chronocat) - 模块化的 Satori 框架
 - [YunYouJun/chat-generator](https://github.com/YunYouJun/chat-generator) - 💬 聊天记录合集
 - [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
