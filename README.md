@@ -189,7 +189,7 @@
 - [xtools-at/Android-PWA-Wrapper](https://github.com/xtools-at/Android-PWA-Wrapper) - Android Wrapper to create native Android Apps from offline-capable Progressive Web Apps
 - [rayworks/DroidCast](https://github.com/rayworks/DroidCast) - An experimental demo for capturing and displaying screenshot of an Android device / emulator without ROOT permission.
 - [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions) - Android 权限请求框架，已适配 Android 14
-- [jeecgboot/JimuReport](https://github.com/jeecgboot/JimuReport) - 「数据可视化工具：报表、大屏、仪表盘」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
+- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化工具：报表、大屏、仪表盘」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
 - [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK。支持 GPT-4o、 GPT4 API。开箱即用。An unofficial Java SDK for seamless integration with ChatGPT's GPT-3.5 and GPT-4 APIs. Ready-to-use, simple setup, and efficient for building AI-powered appli
 - [gulihua10010/playPiano](https://github.com/gulihua10010/playPiano) - Java弹奏钢琴乐曲
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0
@@ -389,7 +389,7 @@
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [RimoChan/ConfusionXL](https://github.com/RimoChan/ConfusionXL) - ConfusionXL V2.0 - 世界上最好的2次元模型
-- [Project-Babble/ProjectBabble](https://github.com/Project-Babble/ProjectBabble) - An open-source mouth tracking method for VR
+- [Project-Babble/ProjectBabble](https://github.com/Project-Babble/ProjectBabble) - A DIY mouth tracking method for VR
 - [Moemu/Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot) - 沐雪，一个会自动找你聊天的AI女孩子
 - [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
 - [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验。
