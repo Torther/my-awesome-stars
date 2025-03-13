@@ -147,6 +147,7 @@
 
 ## HTML 
 
+- [thesephist/tinyhumans](https://github.com/thesephist/tinyhumans) - A little interactive sandbox for tiny people, tiny thoughts, and their tiny stories
 - [superconvert/smart_rtmpd](https://github.com/superconvert/smart_rtmpd) - Smart RTMPD is a high-performance, easy-to-use, multi-system-supported and easy-to-maintain streaming media server. It supports multi-protocol push streaming and multi-protocol pull streaming.
 - [yusanshi/emgithub](https://github.com/yusanshi/emgithub) - Embed a file from GitHub repository just like GitHub Gist.
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
@@ -512,6 +513,7 @@
 
 ## TypeScript 
 
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [wzc520pyfm/ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) - Ant Design X For Vue. 🔥
 - [hannoeru/vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator for ⚡️Vite
 - [chrononeko/chronocat](https://github.com/chrononeko/chronocat) - 模块化的 Satori 框架
