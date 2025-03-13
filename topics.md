@@ -1038,6 +1038,8 @@
 
 ## others 
 
+- [thesephist/tinyhumans](https://github.com/thesephist/tinyhumans) - A little interactive sandbox for tiny people, tiny thoughts, and their tiny stories
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [hannoeru/vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator for ⚡️Vite
 - [chrononeko/chronocat](https://github.com/chrononeko/chronocat) - 模块化的 Satori 框架
