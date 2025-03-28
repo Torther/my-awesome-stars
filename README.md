@@ -280,6 +280,7 @@
 
 ## Kotlin 
 
+- [xihan123/HeartRateHook](https://github.com/xihan123/HeartRateHook) - HeartRateHook 是一个用于监控和更新心率数据的项目
 - [kotlin-orm/ktorm](https://github.com/kotlin-orm/ktorm) - A lightweight ORM framework for Kotlin with strong-typed SQL DSL and sequence APIs.
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [Torther/DroidCast_raw](https://github.com/Torther/DroidCast_raw) - A tool for capturing and displaying screenshot of an Android device / emulator without ROOT permission.
