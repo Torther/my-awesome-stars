@@ -31,6 +31,7 @@
 - [Python](#python)
 - [QML](#qml)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -76,6 +77,8 @@
 
 ## C++ 
 
+- [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
+- [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [weserv/images](https://github.com/weserv/images) - Source code of wsrv.nl (formerly images.weserv.nl), to be used on your own server(s).
@@ -388,9 +391,10 @@
 
 ## Python 
 
+- [beeware/toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
-- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
@@ -469,6 +473,10 @@
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
+
+## SCSS 
+
+- [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
 
 ## Shell 
 
