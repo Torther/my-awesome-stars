@@ -527,7 +527,6 @@
 
 ## TypeScript 
 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 アイリ, ultimate Neuro-sama like LLM powered Live2D/VRM living character life pod, near by you.
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 - [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
@@ -616,6 +615,7 @@
 
 ## Vue 
 
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 アイリ, ultimate Neuro-sama like LLM powered Live2D/VRM living character life pod, near by you.
 - [novlan1/press-ui](https://github.com/novlan1/press-ui) - 易用、灵活、基于uni-app的组件库
 - [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
