@@ -665,6 +665,7 @@
 
 ## golang 
 
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一款简单、好用、安全的交互审计系统，支持RDP、SSH、VNC、Telnet，HTTP协议。
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
@@ -1060,6 +1061,9 @@
 
 ## others 
 
+- [HighCapable/KavaRef](https://github.com/HighCapable/KavaRef) - Modernizing Java Reflection with Kotlin.
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 - [WindChimeEcho/read-bridge](https://github.com/WindChimeEcho/read-bridge) - AI-enhanced reading tool for immersive language learning using the n+1 method. Learn languages by staying in the target language ecosystem, with a flow-state focused interface.
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 - [Marginal/QLVideo](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
@@ -1516,6 +1520,7 @@
 
 ## telegram 
 
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
@@ -1523,6 +1528,7 @@
 
 ## telegram-bot 
 
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 
 ## tensorflow 
