@@ -1647,6 +1647,7 @@
 
 ## vue 
 
+- [motiondivision/motion-vue](https://github.com/motiondivision/motion-vue) - Motion for Vue
 - [wzc520pyfm/ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) - Ant Design X For Vue. 🔥
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [DevCloudFE/vue-devui](https://github.com/DevCloudFE/vue-devui) - UI components based on Vue3 and DevUI Design
