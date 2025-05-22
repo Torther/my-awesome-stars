@@ -541,6 +541,7 @@
 
 ## TypeScript 
 
+- [motiondivision/motion-vue](https://github.com/motiondivision/motion-vue) - Motion for Vue
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [WindChimeEcho/read-bridge](https://github.com/WindChimeEcho/read-bridge) - AI-enhanced reading tool for immersive language learning using the n+1 method. Learn languages by staying in the target language ecosystem, with a flow-state focused interface.
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
