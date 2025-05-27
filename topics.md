@@ -670,6 +670,7 @@
 
 ## go 
 
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [mat/besticon](https://github.com/mat/besticon) - Favicon service written in Go
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal is a simple, secure, and user-friendly interactive auditing system that supports multiple remote access protocols including RDP, SSH, VNC, Telnet, and HTTP
@@ -871,6 +872,7 @@
 
 ## kubernetes 
 
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 
@@ -1086,6 +1088,8 @@
 
 ## others 
 
+- [THE-cattail/vrchat-log-extractor](https://github.com/THE-cattail/vrchat-log-extractor) - 
+- [thusvill/LiveWallpaperMacOS](https://github.com/thusvill/LiveWallpaperMacOS) - 
 - [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, 11, XP and Server. Generate RDP and MSI files for clients.
 - [iGaoWei/BigDataView](https://github.com/iGaoWei/BigDataView) - 100+套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中
 - [HighCapable/KavaRef](https://github.com/HighCapable/KavaRef) - Modernizing Java Reflection with Kotlin.
