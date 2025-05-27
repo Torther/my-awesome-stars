@@ -26,6 +26,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nix](#nix)
+- [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -126,6 +127,7 @@
 
 ## Go 
 
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [emersion/go-webdav](https://github.com/emersion/go-webdav) - A Go library for WebDAV, CalDAV and CardDAV
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -333,6 +335,10 @@
 - [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) - My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes
 - [AdisonCavani/distro-grub-themes](https://github.com/AdisonCavani/distro-grub-themes) - A pack of GRUB2 themes for each Linux distribution
 
+## Objective-C++ 
+
+- [thusvill/LiveWallpaperMacOS](https://github.com/thusvill/LiveWallpaperMacOS) - 
+
 ## Others 
 
 - [HighCapable/KavaRef](https://github.com/HighCapable/KavaRef) - Modernizing Java Reflection with Kotlin.
@@ -478,6 +484,7 @@
 
 ## Rust 
 
+- [THE-cattail/vrchat-log-extractor](https://github.com/THE-cattail/vrchat-log-extractor) - 
 - [Ray-D-Song/lexe](https://github.com/Ray-D-Song/lexe) - Package your Node.js application into a single executable file, but only 10MB.🔥
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
