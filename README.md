@@ -14,6 +14,7 @@
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [Inno Setup](#inno-setup)
 - [JSON](#json)
 - [Java](#java)
@@ -80,6 +81,7 @@
 
 ## C++ 
 
+- [jark006/jarkViewer](https://github.com/jark006/jarkViewer) - A simple image viewer. 一款简单的看图软件。
 - [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
@@ -127,6 +129,7 @@
 
 ## Go 
 
+- [langhuihui/monibuca](https://github.com/langhuihui/monibuca) - 🧩 Monibuca is a Modularized, Extensible framework for building Streaming Server
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [emersion/go-webdav](https://github.com/emersion/go-webdav) - A Go library for WebDAV, CalDAV and CardDAV
@@ -170,6 +173,10 @@
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [mqycn/huile8](https://github.com/mqycn/huile8) - 英语差等生必备的 vscode 插件，解决 单词不会读、单词不认识的痛点
 - [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
+
+## Haskell 
+
+- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 
 ## Inno Setup 
 
@@ -342,6 +349,7 @@
 
 ## Others 
 
+- [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
 - [HighCapable/KavaRef](https://github.com/HighCapable/KavaRef) - Modernizing Java Reflection with Kotlin.
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
@@ -551,6 +559,7 @@
 
 ## TypeScript 
 
+- [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
 - [motiondivision/motion-vue](https://github.com/motiondivision/motion-vue) - Motion for Vue
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [WindChimeEcho/read-bridge](https://github.com/WindChimeEcho/read-bridge) - AI-enhanced reading tool for immersive language learning using the n+1 method. Learn languages by staying in the target language ecosystem, with a flow-state focused interface.
