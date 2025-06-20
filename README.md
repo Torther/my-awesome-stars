@@ -65,6 +65,10 @@
 
 ## C# # 
 
+- [DelvUI/DelvUI](https://github.com/DelvUI/DelvUI) - DelvUI is a Dalamud plugin for Final Fantasy XIV that provides a fully customizable replacement for the default UI.
+- [AtmoOmen/FFXIV-IMDic-Generator-CN](https://github.com/AtmoOmen/FFXIV-IMDic-Generator-CN) - FF14 专有名词 中文输入法 自定义词库 生成器
+- [uiharuayako/SpeakBeaverDalamud](https://github.com/uiharuayako/SpeakBeaverDalamud) - SpeakBeaver的Dalamud实现
+- [goatcorp/FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) - Custom launcher for FFXIV
 - [HunterPie/HunterPie](https://github.com/HunterPie/HunterPie) - A clean, modern and robust overlay for Monster Hunter games.
 - [lilxyzw/lilycalInventory](https://github.com/lilxyzw/lilycalInventory) - Modify avatar at build time.
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
