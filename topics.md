@@ -216,6 +216,7 @@
 
 ## android 
 
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
 - [HighCapable/KavaRef](https://github.com/HighCapable/KavaRef) - A modernizing Java Reflection with Kotlin.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
@@ -687,6 +688,7 @@
 
 ## go 
 
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [mat/besticon](https://github.com/mat/besticon) - Favicon service written in Go
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
@@ -701,6 +703,7 @@
 
 ## golang 
 
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal is a simple, secure, and user-friendly interactive auditing system that supports multiple remote access protocols including RDP, SSH, VNC, Telnet, and HTTP
@@ -725,6 +728,7 @@
 
 ## hacktoberfest 
 
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
@@ -791,6 +795,7 @@
 
 ## ios 
 
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 
