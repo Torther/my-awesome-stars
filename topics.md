@@ -1129,6 +1129,7 @@
 
 ## others 
 
+- [Radekyspec/StartLive](https://github.com/Radekyspec/StartLive) - 绕过B站直播姬获取推流地址
 - [InkSha/rust-tutorial](https://github.com/InkSha/rust-tutorial) - Rust simple tutorial
 - [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
@@ -1786,7 +1787,7 @@
 
 ## windows 
 
-- [jark006/jarkViewer](https://github.com/jark006/jarkViewer) - A simple image viewer. 一款简单的看图软件，支持超多格式。
+- [jark006/jarkViewer](https://github.com/jark006/jarkViewer) - A simple image viewer   一款简单的看图软件
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
