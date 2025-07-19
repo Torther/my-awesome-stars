@@ -166,6 +166,7 @@
 
 ## HTML 
 
+- [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。
 - [rudrodip/theme-toggle-effect](https://github.com/rudrodip/theme-toggle-effect) - theme toggle effect using view transitions api
 - [thesephist/tinyhumans](https://github.com/thesephist/tinyhumans) - A little interactive sandbox for tiny people, tiny thoughts, and their tiny stories
 - [superconvert/smart_rtmpd](https://github.com/superconvert/smart_rtmpd) - Smart RTMPD is a high-performance, easy-to-use, multi-system-supported and easy-to-maintain streaming media server. It supports multi-protocol push streaming and multi-protocol pull streaming.
@@ -584,6 +585,7 @@
 
 ## TypeScript 
 
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
