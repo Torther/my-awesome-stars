@@ -626,7 +626,7 @@
 - [Auto-Plugin/autofit.js](https://github.com/Auto-Plugin/autofit.js) - autofit.js 迄今为止最易用的自适应工具
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [akirarika/milkio](https://github.com/akirarika/milkio) - 🌟 A TypeScript Framework - Now, break the boundaries between Frontend and Backend
-- [yjl9903/AnimeGarden](https://github.com/yjl9903/AnimeGarden) - 動漫花園 镜像站 / 动画 BT 资源聚合站
+- [yjl9903/AnimeGarden](https://github.com/yjl9903/AnimeGarden) - 動漫花園 镜像站 | 动画 BT 资源聚合站 | 动画 BT 资源开放接口
 - [rookie-luochao/openapi-ui](https://github.com/rookie-luochao/openapi-ui) - OpenAPI/Swagger UI document, quickly generate mock params and call api, also simplified postman tool.   基于 OpenAPI/Swagger 规范的接口文档，快速模拟请求参数并调用接口，也是简化版 postman 工具，欢迎提功能请求、bug
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Simon-He95/common-intellisense](https://github.com/Simon-He95/common-intellisense) - Universal Component Intellisense for Any Frameworks
