@@ -431,6 +431,7 @@
 
 ## Python 
 
+- [AtmoOmen/DalamudPlugins](https://github.com/AtmoOmen/DalamudPlugins) - 个人维护的 Dalamud 插件库，大概会有自己写的插件和自己汉化的插件
 - [Radekyspec/StartLive](https://github.com/Radekyspec/StartLive) - 绕过B站直播姬获取推流地址
 - [arcxingye/AutoFisher-VRC](https://github.com/arcxingye/AutoFisher-VRC) - 
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
