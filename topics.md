@@ -1145,6 +1145,7 @@
 
 ## others 
 
+- [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) - A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.
 - [AtmoOmen/DalamudPlugins](https://github.com/AtmoOmen/DalamudPlugins) - 个人维护的 Dalamud 插件库，大概会有自己写的插件和自己汉化的插件
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
