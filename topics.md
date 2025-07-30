@@ -1145,6 +1145,7 @@
 
 ## others 
 
+- [owenthereal/action-upterm](https://github.com/owenthereal/action-upterm) - Enable real-time SSH debugging of GitHub Actions using upterm, providing direct access to the runner system for enhanced troubleshooting and workflow control.
 - [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) - A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.
 - [AtmoOmen/DalamudPlugins](https://github.com/AtmoOmen/DalamudPlugins) - 个人维护的 Dalamud 插件库，大概会有自己写的插件和自己汉化的插件
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
