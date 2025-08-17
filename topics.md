@@ -995,6 +995,7 @@
 
 ## macos 
 
+- [thusvill/LiveWallpaperMacOS](https://github.com/thusvill/LiveWallpaperMacOS) - This is a Opensource Live wallpaper solution for MacOS
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [trzsz/trzsz](https://github.com/trzsz/trzsz) - trzsz is a simple file transfer tools, similar to lrzsz ( rz / sz ), and compatible with tmux.
@@ -1167,7 +1168,6 @@
 - [langhuihui/monibuca](https://github.com/langhuihui/monibuca) - 🧩 Monibuca is a Modularized, Extensible framework for building Streaming Server
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 - [THE-cattail/vrchat-log-extractor](https://github.com/THE-cattail/vrchat-log-extractor) - 
-- [thusvill/LiveWallpaperMacOS](https://github.com/thusvill/LiveWallpaperMacOS) - 
 - [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, 11, XP and Server. Generate RDP and MSI files for clients.
 - [iGaoWei/BigDataView](https://github.com/iGaoWei/BigDataView) - 100+套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
