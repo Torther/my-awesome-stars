@@ -360,7 +360,7 @@
 
 ## Objective-C++ 
 
-- [thusvill/LiveWallpaperMacOS](https://github.com/thusvill/LiveWallpaperMacOS) - 
+- [thusvill/LiveWallpaperMacOS](https://github.com/thusvill/LiveWallpaperMacOS) - This is a Opensource Live wallpaper solution for MacOS
 
 ## Others 
 
