@@ -137,7 +137,7 @@
 
 ## Go 
 
-- [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。
+- [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，无缓存。
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [Xinrea/ffreplay](https://github.com/Xinrea/ffreplay) - FFXIV replay tool based on fflogs report
 - [langhuihui/monibuca](https://github.com/langhuihui/monibuca) - 🧩 Monibuca is a Modularized, Extensible framework for building Streaming Server
