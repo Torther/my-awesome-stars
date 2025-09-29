@@ -244,6 +244,7 @@
 
 ## JavaScript 
 
+- [hexianWeb/CubeCity](https://github.com/hexianWeb/CubeCity) - A city waiting to be built by you 🏙️🔨✨. Threejs Version (一个等着被你建造的城市)
 - [mickael-kerjean/skeleton](https://github.com/mickael-kerjean/skeleton) - A skeleton for making fronted application in vanilla JS
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [owenthereal/action-upterm](https://github.com/owenthereal/action-upterm) - Enable real-time SSH debugging of GitHub Actions using upterm, providing direct access to the runner system for enhanced troubleshooting and workflow control.
@@ -444,6 +445,7 @@
 
 ## Python 
 
+- [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 - [AtmoOmen/DalamudPlugins](https://github.com/AtmoOmen/DalamudPlugins) - 个人维护的 Dalamud 插件库，大概会有自己写的插件和自己汉化的插件
 - [Radekyspec/StartLive](https://github.com/Radekyspec/StartLive) - 绕过B站直播姬获取推流地址
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
@@ -651,7 +653,7 @@
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [MetaCubeX/metacubexd](https://github.com/MetaCubeX/metacubexd) - Mihomo Dashboard, The Official One, XD
 - [zhlint-project/zhlint](https://github.com/zhlint-project/zhlint) - A linting tool for Chinese language.
-- [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal is a simple, secure, and user-friendly interactive auditing system that supports multiple remote access protocols including RDP, SSH, VNC, Telnet, and HTTP
+- [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal 是一个简洁、安全、易用的运维审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet、HTTP 等，适用于企业级运维场景。它可以记录和回放会话，协助安全审计与合规追踪。
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
