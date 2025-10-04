@@ -184,6 +184,7 @@
 - [unity](#unity)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -201,7 +202,7 @@
 ## ai 
 
 - [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 - [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate) - Review-Gate V2 is a powerful rule for the Cursor IDE that helps you get up to 5x more value from your monthly requests. It creates an interactive loop where the AI waits for your follow-up commands—vi
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
@@ -252,7 +253,7 @@
 
 ## api 
 
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [thisoverride/BoothPM-SDK](https://github.com/thisoverride/BoothPM-SDK) - A powerful BoothSDK designed to efficiently extract comprehensive product information from Booth.pm, a leading e-commerce platform. This toolkit streamlines the process of accessing and integrating pr
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
@@ -310,7 +311,7 @@
 
 ## backend 
 
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 - [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -511,7 +512,7 @@
 
 ## developer-tools 
 
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -659,7 +660,7 @@
 
 ## framework 
 
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [akirarika/milkio](https://github.com/akirarika/milkio) - 🌟 A TypeScript Framework - Now, break the boundaries between Frontend and Backend
@@ -779,7 +780,7 @@
 
 ## hacktoberfest 
 
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
@@ -885,7 +886,7 @@
 ## javascript 
 
 - [hexianWeb/CubeCity](https://github.com/hexianWeb/CubeCity) - A city waiting to be built by you 🏙️🔨✨. Threejs Version (一个等着被你建造的城市)
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [Ray-D-Song/lexe](https://github.com/Ray-D-Song/lexe) - Package your Node.js application into a single executable file, but only 10MB.🔥
@@ -1473,7 +1474,7 @@
 ## python 
 
 - [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
@@ -1562,7 +1563,7 @@
 
 ## ruby 
 
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 
 ## rust 
 
@@ -1794,6 +1795,10 @@
 ## visual-studio-code 
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## visualization 
+
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 
 ## vpn 
 
