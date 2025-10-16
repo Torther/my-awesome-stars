@@ -97,7 +97,7 @@
 - [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [weserv/images](https://github.com/weserv/images) - Source code of wsrv.nl (formerly images.weserv.nl), to be used on your own server(s).
-- [UMSKT/UMSKT](https://github.com/UMSKT/UMSKT) - An open source toolkit designed to research Microsoft Pre-Vista license key mechanisms
+- [UMSKT/UMSKT](https://github.com/UMSKT/UMSKT) - An open source toolkit designed to research Microsoft Pre-Vista licensing mechanisms
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
 - [SlyFabi/WSysMon](https://github.com/SlyFabi/WSysMon) - A windows task manager clone for Linux.
