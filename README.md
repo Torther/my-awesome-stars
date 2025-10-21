@@ -710,6 +710,7 @@
 
 ## Vue 
 
+- [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
 - [CaoMeiYouRen/caomei-auth](https://github.com/CaoMeiYouRen/caomei-auth) - 草梅 Auth 是一个基于 Nuxt 全栈框架的统一登录平台。支持 OAuth2.0 协议，集成邮箱、用户名、手机号、验证码、社交媒体等多种登录注册方式。
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 - [kimmknight/raweb](https://github.com/kimmknight/raweb) - A simple web interface for your RemoteApps hosted on Windows 10, 11 and Server.
