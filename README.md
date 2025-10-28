@@ -149,7 +149,7 @@
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [mat/besticon](https://github.com/mat/besticon) - Favicon service written in Go
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
@@ -631,7 +631,7 @@
 - [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [thisoverride/BoothPM-SDK](https://github.com/thisoverride/BoothPM-SDK) - A powerful BoothSDK designed to efficiently extract comprehensive product information from Booth.pm, a leading e-commerce platform. This toolkit streamlines the process of accessing and integrating pr
-- [m31coding/fuzzy-search](https://github.com/m31coding/fuzzy-search) - A fast, accurate and multilingual fuzzy search library for the frontend.
+- [m31coding/fuzzy-search](https://github.com/m31coding/fuzzy-search) - A fast, accurate and multilingual search library for the frontend.
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG.
 - [DevCloudFE/vue-devui](https://github.com/DevCloudFE/vue-devui) - UI components based on Vue3 and DevUI Design
 - [plus-pro-components/plus-pro-components](https://github.com/plus-pro-components/plus-pro-components) - 🔥Page level components developed based on Element Plus.  ProComponents in vue.
@@ -709,6 +709,7 @@
 
 ## Vue 
 
+- [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
 - [keven1024/015](https://github.com/keven1024/015) - 015 is a self-hosted temporary file sharing platform. Focused on providing one-time, temporary file and text upload, processing, and sharing services.
 - [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
 - [CaoMeiYouRen/caomei-auth](https://github.com/CaoMeiYouRen/caomei-auth) - 草梅 Auth 是一个基于 Nuxt 全栈框架的统一登录平台。支持 OAuth2.0 协议，集成邮箱、用户名、手机号、验证码、社交媒体等多种登录注册方式。
