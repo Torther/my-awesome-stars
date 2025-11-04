@@ -444,6 +444,7 @@
 
 ## Python 
 
+- [cp9no1/PrinterService](https://github.com/cp9no1/PrinterService) - 基于@a937750307 项目lan-printing的修改
 - [nql1314/The-Farmer-Was-Replaced-AI-Code](https://github.com/nql1314/The-Farmer-Was-Replaced-AI-Code) - 编程农场游戏存档及代码，采用cursor+claude-4.5-sonnet 实现
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 - [AtmoOmen/DalamudPlugins](https://github.com/AtmoOmen/DalamudPlugins) - 个人维护的 Dalamud 插件库，大概会有自己写的插件和自己汉化的插件
