@@ -1199,6 +1199,7 @@
 
 ## others 
 
+- [djyde/ccmate](https://github.com/djyde/ccmate) - Configure your Claude Code without pain
 - [YYsuni/2025-blog-public](https://github.com/YYsuni/2025-blog-public) - An open-source blog focused on front-end UI controls, where content is submitted via the blog's UI rather than through code updates.
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
@@ -1585,6 +1586,7 @@
 
 ## rust 
 
+- [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
 - [InkSha/rust-tutorial](https://github.com/InkSha/rust-tutorial) - 一个针对新手的 Rust 快速教程，从零开始写一个管理 Todos 的命令行程序
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
