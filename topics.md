@@ -274,7 +274,6 @@
 - [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide) - ✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨
-- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [ArchLinuxStudio/ArchLinuxTutorial](https://github.com/ArchLinuxStudio/ArchLinuxTutorial) - ✨Arch Linux安装使用教程 每日实时更新！ | 包含ArchLinux从安装到日常使用、娱乐、编程、媒体制作的各个方面，让Arch成为你的常用系统吧！ | 提供在线网页文档 ✨
 
 ## arduino 
