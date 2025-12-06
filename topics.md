@@ -151,6 +151,7 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [qt](#qt)
+- [rag](#rag)
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
@@ -726,6 +727,7 @@
 
 ## git 
 
+- [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
@@ -762,6 +764,7 @@
 
 ## go 
 
+- [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，无缓存。
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
@@ -1567,6 +1570,10 @@
 ## qt 
 
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+
+## rag 
+
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！ 成熟的AI应用平台：涵盖AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等，兼容多种大模型；提供强大代码生成器：实现前后端一键生成，无需手写代码! 引领AI开发模式：AI生成→在线配置→代码生成→手工合并，解决Java项目80%重复工作，提升效率节省成本，又不失灵活~
 
 ## react 
 
