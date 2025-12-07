@@ -243,7 +243,7 @@
 
 ## analytics 
 
-- [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 
 ## android 
@@ -817,7 +817,7 @@
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
-- [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -1760,7 +1760,7 @@
 
 ## tailwindcss 
 
-- [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
