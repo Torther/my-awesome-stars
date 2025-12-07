@@ -375,6 +375,7 @@
 ## Others 
 
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
+- [AtmoOmen/DalamudPlugins](https://github.com/AtmoOmen/DalamudPlugins) - 个人维护的 Dalamud 插件库，大概会有自己写的插件和自己汉化的插件
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
@@ -451,7 +452,6 @@
 - [cp9no1/PrinterService](https://github.com/cp9no1/PrinterService) - 基于@a937750307 项目lan-printing的修改
 - [nql1314/The-Farmer-Was-Replaced-AI-Code](https://github.com/nql1314/The-Farmer-Was-Replaced-AI-Code) - 编程农场游戏存档及代码，采用cursor+claude-4.5-sonnet 实现
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
-- [AtmoOmen/DalamudPlugins](https://github.com/AtmoOmen/DalamudPlugins) - 个人维护的 Dalamud 插件库，大概会有自己写的插件和自己汉化的插件
 - [Radekyspec/StartLive](https://github.com/Radekyspec/StartLive) - 绕过B站直播姬获取推流地址
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [beeware/toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
@@ -734,7 +734,7 @@
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 - [kimmknight/raweb](https://github.com/kimmknight/raweb) - A modern web interface for your RemoteApps hosted on Windows 10, 11 and Server.
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
-- [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [megasanjay/vue3-marquee](https://github.com/megasanjay/vue3-marquee) - A simple marquee component with ZERO dependencies for Vue 3.
 - [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
 - [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
