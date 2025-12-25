@@ -212,7 +212,7 @@
 
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / Telegram / 企微 / 飞书 / 钉钉等），强大易用的插件系统，支持 OpenAI / Gemini / Anthropic / Dify / Coze / 阿里云百炼 / 知识库 / Agent 智能体
 - [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！ 成熟的AI应用平台：涵盖AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等，兼容多种大模型；提供强大代码生成器：实现前后端一键生成，无需手写代码! 引领AI开发模式：AI生成→在线配置→代码生成→手工合并，解决Java项目80%重复工作，提升效率节省成本，又不失灵活~
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键
 
 ## ai 
 
@@ -226,7 +226,7 @@
 - [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！ 成熟的AI应用平台：涵盖AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等，兼容多种大模型；提供强大代码生成器：实现前后端一键生成，无需手写代码! 引领AI开发模式：AI生成→在线配置→代码生成→手工合并，解决Java项目80%重复工作，提升效率节省成本，又不失灵活~
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading and Profiling for Python
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Suppor
@@ -504,7 +504,7 @@
 
 ## data-analysis 
 
-- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化：报表、大屏、看板」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
+- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - An open-source BI and REPORT tool alternative to Tableau and JasperReports, offering powerful reporting capabilities. 一款类似Excel的低代码报表工具和大屏设计器！完全在线傻瓜式设计，高效的降低报表开发难度，解决各类报表难题。
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
 
 ## data-structures 
@@ -513,7 +513,7 @@
 
 ## data-visualization 
 
-- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化：报表、大屏、看板」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
+- [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - An open-source BI and REPORT tool alternative to Tableau and JasperReports, offering powerful reporting capabilities. 一款类似Excel的低代码报表工具和大屏设计器！完全在线傻瓜式设计，高效的降低报表开发难度，解决各类报表难题。
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
 
 ## database 
@@ -1053,14 +1053,14 @@
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / Telegram / 企微 / 飞书 / 钉钉等），强大易用的插件系统，支持 OpenAI / Gemini / Anthropic / Dify / Coze / 阿里云百炼 / 知识库 / Agent 智能体
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！ 成熟的AI应用平台：涵盖AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等，兼容多种大模型；提供强大代码生成器：实现前后端一键生成，无需手写代码! 引领AI开发模式：AI生成→在线配置→代码生成→手工合并，解决Java项目80%重复工作，提升效率节省成本，又不失灵活~
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键
 - [opensolon/solon](https://github.com/opensolon/solon) - 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% s
 
 ## low-code 
 
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！ 成熟的AI应用平台：涵盖AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等，兼容多种大模型；提供强大代码生成器：实现前后端一键生成，无需手写代码! 引领AI开发模式：AI生成→在线配置→代码生成→手工合并，解决Java项目80%重复工作，提升效率节省成本，又不失灵活~
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键
 - [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be 
 
 ## mac 
@@ -1239,6 +1239,7 @@
 
 ## others 
 
+- [qazzxxx/cloudimgs](https://github.com/qazzxxx/cloudimgs) - 云图 - 极简风格的云图库，无数据库图床项目，支持NAS部署，支持设置密钥，支持各种灵活的API开放接口，NAS图床，PicGo插件直接安装使用
 - [journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictabl
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
@@ -1582,7 +1583,7 @@
 
 ## rag 
 
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！ 成熟的AI应用平台：涵盖AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等，兼容多种大模型；提供强大代码生成器：实现前后端一键生成，无需手写代码! 引领AI开发模式：AI生成→在线配置→代码生成→手工合并，解决Java项目80%重复工作，提升效率节省成本，又不失灵活~
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键
 
 ## react 
 
@@ -1716,7 +1717,7 @@
 ## springboot 
 
 - [valarchie/AgileBoot-Back-End](https://github.com/valarchie/AgileBoot-Back-End) - 🔥   规范易于二开的全栈基础快速开发脚手架。🔥  采用Springboot + Vue 3 + Typescript + Mybatis Plus + Redis + 更面向对象的业务建模 + 面向生产的项目（非玩具项目）。你的 ⭐️ Star ⭐️，是作者更新的动力！ 欢迎小伙伴PR，一起构建一个规范的全栈项目~😆
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！ 成熟的AI应用平台：涵盖AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等，兼容多种大模型；提供强大代码生成器：实现前后端一键生成，无需手写代码! 引领AI开发模式：AI生成→在线配置→代码生成→手工合并，解决Java项目80%重复工作，提升效率节省成本，又不失灵活~
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键
 - [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 
 ## sql 
