@@ -71,6 +71,7 @@
 - [AtmoOmen/FFXIV-IMDic-Generator-CN](https://github.com/AtmoOmen/FFXIV-IMDic-Generator-CN) - FF14 专有名词 中文输入法 自定义词库 生成器
 - [uiharuayako/SpeakBeaverDalamud](https://github.com/uiharuayako/SpeakBeaverDalamud) - SpeakBeaver的Dalamud实现
 - [goatcorp/FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) - Custom launcher for FFXIV
+- [kimmknight/raweb](https://github.com/kimmknight/raweb) - A modern web interface for your RemoteApps hosted on Windows 10, 11 and Server.
 - [HunterPie/HunterPie](https://github.com/HunterPie/HunterPie) - A clean, modern and robust overlay for Monster Hunter games.
 - [arcxingye/AutoFisher-VRC](https://github.com/arcxingye/AutoFisher-VRC) - 
 - [lilxyzw/lilycalInventory](https://github.com/lilxyzw/lilycalInventory) - Modify avatar at build time.
@@ -626,6 +627,8 @@
 
 ## TypeScript 
 
+- [twwch/DeepDiagram](https://github.com/twwch/DeepDiagram) - An open-source AI visualization tool that transforms natural language into Mind Maps, Mermaid diagrams, and Echarts. Turn your ideas into structured visuals instantly.
+- [NoUnityCN/NoUnityCN](https://github.com/NoUnityCN/NoUnityCN) - 🔥Unity国际版下载站，可通过直链或者Unity Hub下载例如Unity 6等Unity Editor的国际版，支持添加组件、下载国际版Unity Hub、包含长期支持版、技术支持版、测试版、预览版的Unity。
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -748,7 +751,6 @@
 - [keven1024/015](https://github.com/keven1024/015) - 015 is a self-hosted temporary file sharing platform. Focused on providing one-time, temporary file and text upload, processing, and sharing services.
 - [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
-- [kimmknight/raweb](https://github.com/kimmknight/raweb) - A modern web interface for your RemoteApps hosted on Windows 10, 11 and Server.
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [megasanjay/vue3-marquee](https://github.com/megasanjay/vue3-marquee) - A simple marquee component with ZERO dependencies for Vue 3.
 - [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
