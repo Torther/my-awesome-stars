@@ -1278,6 +1278,7 @@
 
 ## others 
 
+- [twwch/DeepDiagram](https://github.com/twwch/DeepDiagram) - An open-source AI visualization tool that transforms natural language into Mind Maps, Mermaid diagrams, and Echarts. Turn your ideas into structured visuals instantly.
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
 - [TangSY/edge-next-starter](https://github.com/TangSY/edge-next-starter) - An out‑of‑the‑box Next.js + Cloudflare full‑stack starter integrating Edge Runtime, D1 database, R2 storage, KV cache, Analytics Engine hooks, and a complete CI/CD pipeline.一个开箱即用的 Next.js + Cloudflar
@@ -1924,6 +1925,7 @@
 
 ## unity 
 
+- [NoUnityCN/NoUnityCN](https://github.com/NoUnityCN/NoUnityCN) - 🔥Unity国际版下载站，可通过直链或者Unity Hub下载例如Unity 6等Unity Editor的国际版，支持添加组件、下载国际版Unity Hub、包含长期支持版、技术支持版、测试版、预览版的Unity。
 - [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
 - [Project-Babble/ProjectBabble](https://github.com/Project-Babble/ProjectBabble) - A DIY mouth tracking method for VR
 
