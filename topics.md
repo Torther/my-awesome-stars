@@ -1296,6 +1296,7 @@
 
 ## others 
 
+- [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [panyiwei-home/Friendeck](https://github.com/panyiwei-home/Friendeck) - A powerful Decky Loader plugin designed to solve the file transfer and management challenges between Steam Deck and other devices. Manage files and sync text easily via browser without data cables.
 - [mogworks/xivplan](https://github.com/mogworks/xivplan) - Raid planning tool for Final Fantasy XIV
 - [twwch/DeepDiagram](https://github.com/twwch/DeepDiagram) - An open-source AI visualization tool that transforms natural language into Mind Maps, Mermaid diagrams, and Echarts. Turn your ideas into structured visuals instantly.
