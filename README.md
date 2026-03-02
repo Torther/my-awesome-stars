@@ -500,7 +500,7 @@
 - [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading and Profiling for Python
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
 - [zas023/JdBuyer](https://github.com/zas023/JdBuyer) - 京东抢购自动下单助手，GUI 支持 Windows 和 macOS
 - [iswbm/pycharm-guide](https://github.com/iswbm/pycharm-guide) - PyCharm 中文指南：安装 | 破解 | 效率 | 技巧
