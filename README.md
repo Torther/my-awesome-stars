@@ -391,7 +391,7 @@
 - [icon11-community/Folder-Ico](https://github.com/icon11-community/Folder-Ico) - Ico repository for Folder11
 - [lxgw/LxgwZhenKai](https://github.com/lxgw/LxgwZhenKai) - 霞鹜臻楷：基于「霞鹜文楷」衍生，前期手动加粗调整字形，后期由 AI 生成字形辅助补字的开源中文字体。A bolder weight, AI-assisted font derived from LXGW Wenkai.
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
-- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - OpenClash配置示例及订阅转换模板，无需套娃，无 DNS 泄漏
+- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 
 - [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer Microsoft Office For MacOS
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
@@ -543,7 +543,6 @@
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and two primitives: Function and Trigger.
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
 - [InkSha/rust-tutorial](https://github.com/InkSha/rust-tutorial) - 一个针对新手的 Rust 快速教程，从零开始写一个管理 Todos 的命令行程序
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
@@ -649,6 +648,7 @@
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [CaoMeiYouRen/caomei-auth](https://github.com/CaoMeiYouRen/caomei-auth) - 草梅 Auth 是一个基于 Nuxt 全栈框架的统一登录平台。支持 OAuth2.0 协议，集成邮箱、用户名、手机号、验证码、社交媒体等多种登录注册方式。
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and two primitives: Function and Trigger.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
