@@ -424,7 +424,7 @@
 ## clash 
 
 - [yyhhyyyyyy/selfproxy](https://github.com/yyhhyyyyyy/selfproxy) - 自用代理工具配置仓库，包含Mihomo(Clash)、Surge等工具的优化配置文件与使用指南。
-- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - OpenClash配置示例及订阅转换模板，无需套娃，无 DNS 泄漏
+- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 
 
 ## cli 
 
