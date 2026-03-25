@@ -464,6 +464,7 @@
 
 ## Python 
 
+- [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher
 - [panyiwei-home/Friendeck](https://github.com/panyiwei-home/Friendeck) - A powerful Decky Loader plugin designed to solve the file transfer and management challenges between Steam Deck and other devices. Manage files and sync text easily via browser without data cables.
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
 - [cp9no1/PrinterService](https://github.com/cp9no1/PrinterService) - 基于@a937750307 项目lan-printing的修改
