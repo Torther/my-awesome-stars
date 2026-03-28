@@ -67,6 +67,7 @@
 
 ## C# # 
 
+- [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [project-vrcz/content-publisher](https://github.com/project-vrcz/content-publisher) - Publish your vrchat content in a more efficient way
 - [DelvUI/DelvUI](https://github.com/DelvUI/DelvUI) - DelvUI is a Dalamud plugin for Final Fantasy XIV that provides a fully customizable replacement for the default UI.
 - [AtmoOmen/FFXIV-IMDic-Generator-CN](https://github.com/AtmoOmen/FFXIV-IMDic-Generator-CN) - FF14 专有名词 中文输入法 自定义词库 生成器
@@ -113,6 +114,7 @@
 
 ## CSS 
 
+- [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.
 - [aculix/bitplay](https://github.com/aculix/bitplay) - Stream video torrents in your web browser with ease.
 - [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
 - [rootknight/Miniflux-Theme-Reeder](https://github.com/rootknight/Miniflux-Theme-Reeder) - Miniflux v2 的自定义主题 miniflux-theme-reeder（仿 Reeder）
@@ -265,7 +267,7 @@
 - [owenthereal/action-upterm](https://github.com/owenthereal/action-upterm) - Enable real-time SSH debugging of GitHub Actions using upterm, providing direct access to the runner system for enhanced troubleshooting and workflow control.
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - 🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture engine — fast, modular, extensible.
 - [yyhhyyyyyy/selfproxy](https://github.com/yyhhyyyyyy/selfproxy) - 自用代理工具配置仓库，包含Mihomo(Clash)、Surge等工具的优化配置文件与使用指南。
 - [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate) - Review-Gate V2 is a powerful rule for the Cursor IDE that helps you get up to 5x more value from your monthly requests. It creates an interactive loop where the AI waits for your follow-up commands—vi
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
@@ -544,6 +546,7 @@
 
 ## Rust 
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
@@ -636,6 +639,9 @@
 
 ## TypeScript 
 
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+- [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
+- [jiweiyuan/tunelo](https://github.com/jiweiyuan/tunelo) - Tunnel Tool
 - [liumengniu/majiang](https://github.com/liumengniu/majiang) - laya3.x引擎 + nodejs 开发的网络麻将，省去了大量复杂配置，极其适合上手
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
