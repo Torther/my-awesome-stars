@@ -266,7 +266,7 @@
 ## android 
 
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
-- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - 🚀 Kotlin Multiplatform UI framework from Tencent TDS — High-performance cross-platform framework with unified codebase, ease of use, and dynamic flexibility.
+- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - High-performance KMP UI framework from Tencent TDS — one codebase, six platforms (Android, iOS, HarmonyOS, Web, Mini Programs, macOS)
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
 - [HighCapable/KavaRef](https://github.com/HighCapable/KavaRef) - A modernizing Java Reflection with Kotlin.
@@ -935,7 +935,7 @@
 
 ## ios 
 
-- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - 🚀 Kotlin Multiplatform UI framework from Tencent TDS — High-performance cross-platform framework with unified codebase, ease of use, and dynamic flexibility.
+- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - High-performance KMP UI framework from Tencent TDS — one codebase, six platforms (Android, iOS, HarmonyOS, Web, Mini Programs, macOS)
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
@@ -1138,7 +1138,7 @@
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - 🚀 Kotlin Multiplatform UI framework from Tencent TDS — High-performance cross-platform framework with unified codebase, ease of use, and dynamic flexibility.
+- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - High-performance KMP UI framework from Tencent TDS — one codebase, six platforms (Android, iOS, HarmonyOS, Web, Mini Programs, macOS)
 - [thusvill/LiveWallpaperMacOS](https://github.com/thusvill/LiveWallpaperMacOS) - This is a Opensource Live wallpaper solution for MacOS
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
@@ -1204,7 +1204,7 @@
 
 ## mobile 
 
-- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - 🚀 Kotlin Multiplatform UI framework from Tencent TDS — High-performance cross-platform framework with unified codebase, ease of use, and dynamic flexibility.
+- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - High-performance KMP UI framework from Tencent TDS — one codebase, six platforms (Android, iOS, HarmonyOS, Web, Mini Programs, macOS)
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [varletjs/varlet](https://github.com/varletjs/varlet) - A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.
@@ -2069,7 +2069,7 @@
 
 ## web 
 
-- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - 🚀 Kotlin Multiplatform UI framework from Tencent TDS — High-performance cross-platform framework with unified codebase, ease of use, and dynamic flexibility.
+- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - High-performance KMP UI framework from Tencent TDS — one codebase, six platforms (Android, iOS, HarmonyOS, Web, Mini Programs, macOS)
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
