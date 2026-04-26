@@ -1044,7 +1044,7 @@
 
 ## js 
 
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture engine — fast, modular, extensible.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture to whatever engine — fast, modular, extensible.
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 - [varletjs/varlet](https://github.com/varletjs/varlet) - A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.
 
@@ -1338,6 +1338,7 @@
 
 ## others 
 
+- [Monika-Dream/live-dashboard](https://github.com/Monika-Dream/live-dashboard) - 视监面板
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [rinchanai/rin](https://github.com/rinchanai/rin) - Terminal-first local AI assistant with memory, web search, scheduled tasks, and chat bridge support.
 - [guokaigdg/animal-island-ui](https://github.com/guokaigdg/animal-island-ui) - Animal 风格的 React 组件库 灵感来源于任天堂集合啦！动物森友会游戏界面
