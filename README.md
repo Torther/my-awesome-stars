@@ -142,6 +142,7 @@
 
 ## Go 
 
+- [hanxi/cups-web](https://github.com/hanxi/cups-web) - 把家用 USB 打印机变成随时可访问的网络打印服务
 - [junevm/splathash](https://github.com/junevm/splathash) - compress any image to 16 bytes and reconstruct a blurry preview. Like blurhash and thumbhash, but smaller.
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
@@ -222,7 +223,7 @@
 - [Dituon/petpet](https://github.com/Dituon/petpet) - 根据模板生成图像
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [valarchie/AgileBoot-Back-End](https://github.com/valarchie/AgileBoot-Back-End) - 🔥   规范易于二开的全栈基础快速开发脚手架。🔥  采用Springboot + Vue 3 + Typescript + Mybatis Plus + Redis + 更面向对象的业务建模 + 面向生产的项目（非玩具项目）。你的 ⭐️ Star ⭐️，是作者更新的动力！ 欢迎小伙伴PR，一起构建一个规范的全栈项目~😆
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款 AI 驱动的低代码平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI低代码平台，支持「低代码 + 零代码」双模式：零代码 5 分钟搭建业务系统，低代码模式一键生成前后端代码。 内置AI 应用，支持AI聊天、知识库、流程编排、MCP与插件，支持各种模型。Skills能力实现：一句话画流程图、设计表单、生成系统。 引领 AI生成→在线配置→代码生成→手工合并的开发模式，解决Java项目80%的重复工作，快速提高效率，又不失灵活性。
 - [RoaringBitmap/RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java: used by Apache Spark, Netflix Atlas, Apache Pinot, Tablesaw, and many others
 - [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON  library with excellent performance.
 - [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JS
@@ -467,6 +468,7 @@
 
 ## Python 
 
+- [ugokutennp/watchman-pairing-assistant](https://github.com/ugokutennp/watchman-pairing-assistant) - GUI for pairing SteamVR Tracking devices using lighthouse_console
 - [abc1763613206/QQFaceHelper](https://github.com/abc1763613206/QQFaceHelper) - 自用 QQ上架表情包下载
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher
 - [panyiwei-home/Friendeck](https://github.com/panyiwei-home/Friendeck) - A powerful Decky Loader plugin designed to solve the file transfer and management challenges between Steam Deck and other devices. Manage files and sync text easily via browser without data cables.
@@ -772,7 +774,6 @@
 
 ## Vue 
 
-- [hanxi/cups-web](https://github.com/hanxi/cups-web) - 把家用 USB 打印机变成随时可访问的网络打印服务
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
 - [keven1024/015](https://github.com/keven1024/015) - 015 is a self-hosted temporary file sharing platform. Focused on providing one-time, temporary file and text upload, processing, and sharing services.
 - [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
