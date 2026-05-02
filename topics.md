@@ -1399,7 +1399,7 @@
 - [Xinrea/ffreplay](https://github.com/Xinrea/ffreplay) - FFXIV replay tool based on fflogs report
 - [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
 - [langhuihui/monibuca](https://github.com/langhuihui/monibuca) - 🧩 Monibuca is a Modularized, Extensible framework for building Streaming Server
-- [jark006/JarkViewer](https://github.com/jark006/JarkViewer) - 一款轻量且飞快的看图软件，支持 AVIF、HEIC、JPEG-XL 和 实况照片 等超多新兴图像格式！A lightweight and lightning-fast image viewer that supports a wide range of emerging image formats such as AVIF, HEIC, JPEG-XL, and Live Photos!
+- [jark006/JarkViewer](https://github.com/jark006/JarkViewer) - 一款简约且飞快的看图软件，支持 AVIF、HEIC、JPEG-XL 和 实况照片 等超多新兴图像格式！A minimalist and lightning-fast image viewer that supports a wide range of emerging image formats such as AVIF, HEIC, JPEG-XL, and Live Photos!
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 - [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, 11, XP and Server. Generate RDP and MSI files for clients.
 - [iGaoWei/BigDataView](https://github.com/iGaoWei/BigDataView) - 100+套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中
