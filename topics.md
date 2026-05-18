@@ -773,7 +773,7 @@
 ## framework 
 
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [akirarika/milkio](https://github.com/akirarika/milkio) - 🌟 A TypeScript Framework - Now, break the boundaries between Frontend and Backend
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
@@ -907,7 +907,7 @@
 - [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
@@ -1313,7 +1313,7 @@
 ## node 
 
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
@@ -2100,7 +2100,7 @@
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [motiondivision/motion-vue](https://github.com/motiondivision/motion-vue) - Motion for Vue
 - [wzc520pyfm/ant-design-x-vue](https://github.com/wzc520pyfm/ant-design-x-vue) - Ant Design X For Vue. 🔥
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [DevCloudFE/vue-devui](https://github.com/DevCloudFE/vue-devui) - UI components based on Vue3 and DevUI Design
 - [Auto-Plugin/autofit.js](https://github.com/Auto-Plugin/autofit.js) - autofit.js 迄今为止最易用的自适应工具
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
