@@ -36,6 +36,7 @@
 - [SCSS](#scss)
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
+- [Smali](#smali)
 - [Standard ML](#standard-ml)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -615,6 +616,10 @@
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 
+## Smali 
+
+- [rianlu/smartisan-launcher-maintained](https://github.com/rianlu/smartisan-launcher-maintained) - 面向新版 Android 的 锤子桌面 非官方维护版
+
 ## Standard ML 
 
 - [miaoermua/CatWrt](https://github.com/miaoermua/CatWrt) - 🌠 开源稳定的客制化 OpenWrt 智能网关
@@ -643,7 +648,8 @@
 
 ## TypeScript 
 
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
+- [vikingmute/better-wechatpay](https://github.com/vikingmute/better-wechatpay) - 现代化的微信支付 Node.js SDK - ESM、TypeScript、全支付方式支持
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [setube/stackprism](https://github.com/setube/stackprism) - StackPrism是一款用于检测网页技术栈的浏览器插件。
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的第三方网易云播放器
 - [beilunyang/moemail](https://github.com/beilunyang/moemail) - A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
