@@ -936,6 +936,7 @@
 
 ## home-assistant 
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 
@@ -979,6 +980,7 @@
 
 ## iot 
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [sidi762/smart-vendor](https://github.com/sidi762/smart-vendor) - Smart vending machine with non-contact interaction based on gesture recognition
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -1370,6 +1372,7 @@
 
 ## others 
 
+- [apple/corecrypto](https://github.com/apple/corecrypto) - Apple corecrypto
 - [vikingmute/better-wechatpay](https://github.com/vikingmute/better-wechatpay) - 现代化的微信支付 Node.js SDK - ESM、TypeScript、全支付方式支持
 - [rianlu/smartisan-launcher-maintained](https://github.com/rianlu/smartisan-launcher-maintained) - 面向新版 Android 的 锤子桌面 非官方维护版
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
