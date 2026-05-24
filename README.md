@@ -92,6 +92,7 @@
 
 ## C++ 
 
+- [apple/corecrypto](https://github.com/apple/corecrypto) - Apple corecrypto
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - An open-source low-code modding framework to create, manage and use themes/plugins for the desktop Steam Client without any low-level internal interaction or overhead.
 - [jark006/JarkViewer](https://github.com/jark006/JarkViewer) - 一款简约且飞快的看图软件，支持 AVIF、HEIC、JPEG-XL 和 实况照片 等超多新兴图像格式！A minimalist and lightning-fast image viewer that supports a wide range of emerging image formats such as AVIF, HEIC, JPEG-XL, and Live Photos!
 - [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
