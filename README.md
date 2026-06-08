@@ -591,6 +591,7 @@
 
 ## Shell 
 
+- [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk) - Based on the sing-box core, this Android proxy module supports one-click start/stop of transparent proxy and is designed for Android devices.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
 - [you8023/docker_images_sync](https://github.com/you8023/docker_images_sync) - docker镜像一键拉取，无需梯子/服务器，无数量限制docker images sync workflow and scripts
