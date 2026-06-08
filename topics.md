@@ -1385,6 +1385,7 @@
 
 ## others 
 
+- [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk) - Based on the sing-box core, this Android proxy module supports one-click start/stop of transparent proxy and is designed for Android devices.
 - [Woysful/Marathon-Grub-Themes](https://github.com/Woysful/Marathon-Grub-Themes) - Marathon styled set of themes for GRUB bootloader
 - [do-md/domd](https://github.com/do-md/domd) - 
 - [foru17/make-x-great-again](https://github.com/foru17/make-x-great-again) - Make X Great Again — passive ambient browser extension that makes X usable: spam shield, KOL signal score, profile digest, social graph hints. Public-good, open source.
