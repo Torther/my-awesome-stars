@@ -69,7 +69,6 @@
 ## C# # 
 
 - [mgth/LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Aware mouse move across screens
-- [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [project-vrcz/content-publisher](https://github.com/project-vrcz/content-publisher) - Publish your vrchat content in a more efficient way
 - [DelvUI/DelvUI](https://github.com/DelvUI/DelvUI) - DelvUI is a Dalamud plugin for Final Fantasy XIV that provides a fully customizable replacement for the default UI.
 - [AtmoOmen/FFXIV-IMDic-Generator-CN](https://github.com/AtmoOmen/FFXIV-IMDic-Generator-CN) - FF14 专有名词 中文输入法 自定义词库 生成器
@@ -260,6 +259,7 @@
 
 ## JavaScript 
 
+- [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
 - [vikiboss/r2-web](https://github.com/vikiboss/r2-web) - 📁 轻盈优雅的 Web 原生 Cloudflare R2 桶文件管理器，一切皆在浏览器中完成。 | 📁 A lightweight, elegant, pure-browser Cloudflare R2 file manager. Everything happens right in your browser.
 - [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
@@ -268,7 +268,7 @@
 - [hexianWeb/CubeCity](https://github.com/hexianWeb/CubeCity) - A city waiting to be built by you 🏙️🔨✨. Threejs Version (一个等着被你建造的城市)
 - [mickael-kerjean/skeleton](https://github.com/mickael-kerjean/skeleton) - A skeleton for making fronted application in vanilla JS
 - [owenthereal/action-upterm](https://github.com/owenthereal/action-upterm) - Enable real-time SSH debugging of GitHub Actions using upterm, providing direct access to the runner system for enhanced troubleshooting and workflow control.
-- [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
+- [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 200 powerful ESLint rules
 - [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - 🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。
 - [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
 - [yyhhyyyyyy/selfproxy](https://github.com/yyhhyyyyyy/selfproxy) - 自用代理工具配置仓库，包含Mihomo(Clash)、Surge等工具的优化配置文件与使用指南。
@@ -638,6 +638,7 @@
 
 ## Swift 
 
+- [microsoft/SwiftStreamingMarkdown](https://github.com/microsoft/SwiftStreamingMarkdown) - A performant markdown library for iOS that supports streaming
 - [duongductrong/Snapzy](https://github.com/duongductrong/Snapzy) - An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
