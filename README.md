@@ -91,7 +91,7 @@
 
 ## C++ 
 
-- [Nyabsi/OpenVR-SpaceOverride](https://github.com/Nyabsi/OpenVR-SpaceOverride) - 
+- [Nyabsi/OpenVR-SpaceOverride](https://github.com/Nyabsi/OpenVR-SpaceOverride) - Use your lighthouse devices on other headsets.
 - [apple/corecrypto](https://github.com/apple/corecrypto) - Apple corecrypto
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - Open-source modding framework for creating and managing Steam Client themes and plugins.
 - [jark006/JarkViewer](https://github.com/jark006/JarkViewer) - 一款简约且飞快的看图软件，支持 AVIF、HEIC、JPEG-XL 和 实况照片 等超多新兴图像格式！A minimalist and lightning-fast image viewer that supports a wide range of emerging image formats such as AVIF, HEIC, JPEG-XL, and Live Photos!
