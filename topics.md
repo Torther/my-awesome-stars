@@ -1388,7 +1388,7 @@
 ## others 
 
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
-- [Nyabsi/OpenVR-SpaceOverride](https://github.com/Nyabsi/OpenVR-SpaceOverride) - 
+- [Nyabsi/OpenVR-SpaceOverride](https://github.com/Nyabsi/OpenVR-SpaceOverride) - Use your lighthouse devices on other headsets.
 - [BITJEBE/nezha-BITJEBE](https://github.com/BITJEBE/nezha-BITJEBE) - Customized Komari Monitor theme based on nezha-dash-v1
 - [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk) - Based on the sing-box core, this Android proxy module supports one-click start/stop of transparent proxy and is designed for Android devices.
 - [Woysful/Marathon-Grub-Themes](https://github.com/Woysful/Marathon-Grub-Themes) - Marathon styled set of themes for GRUB bootloader
