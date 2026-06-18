@@ -1387,6 +1387,8 @@
 
 ## others 
 
+- [SWE-agent/minimal-agent-tutorial](https://github.com/SWE-agent/minimal-agent-tutorial) - Tutorial on how to build a minimal software engineering agent that still scores high on SWE-bench verified
+- [chunqiuyiyu/sekrun](https://github.com/chunqiuyiyu/sekrun) - A coding agent CLI powered by DeepSeek V4 Flash
 - [YuKongA/payload_extract_gui](https://github.com/YuKongA/payload_extract_gui) - [Multiplatform] Android payload.bin extractor GUI
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
 - [Nyabsi/OpenVR-SpaceOverride](https://github.com/Nyabsi/OpenVR-SpaceOverride) - Use your lighthouse devices on other headsets.
