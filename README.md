@@ -683,7 +683,7 @@
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [mogworks/xivplan](https://github.com/mogworks/xivplan) - Raid planning tool for Final Fantasy XIV
 - [LingyiChen-AI/DeepDiagram](https://github.com/LingyiChen-AI/DeepDiagram) - An open-source AI visualization tool that transforms natural language into Mind Maps, Mermaid diagrams, and Echarts. Turn your ideas into structured visuals instantly.
-- [NoUnityCN/NoUnityCN](https://github.com/NoUnityCN/NoUnityCN) - 🔥Unity国际版下载站，可通过直链或者Unity Hub下载例如Unity 6等Unity Editor的国际版，支持添加组件、下载国际版Unity Hub、包含长期支持版、技术支持版、测试版、预览版的Unity。
+- [DanKE123abc/NoUnityCN](https://github.com/DanKE123abc/NoUnityCN) - 🔥Unity国际版下载站，可通过直链或者Unity Hub下载例如Unity 6等Unity Editor的国际版，支持添加组件、下载国际版Unity Hub、包含长期支持版、技术支持版、测试版、预览版的Unity。
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -705,7 +705,7 @@
 - [uni-helper/vite-plugin-uni-layouts](https://github.com/uni-helper/vite-plugin-uni-layouts) - 为 Vite 下的 uni-app 提供类 nuxt 的 layouts 系统
 - [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
 - [motiondivision/motion-vue](https://github.com/motiondivision/motion-vue) - Motion for Vue
-- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [WindChimeEcho/read-bridge](https://github.com/WindChimeEcho/read-bridge) - AI-enhanced reading tool for immersive language learning using the n+1 method. Learn languages by staying in the target language ecosystem, with a flow-state focused interface.
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
