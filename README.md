@@ -397,6 +397,7 @@
 
 ## Others 
 
+- [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the communit
 - [SWE-agent/minimal-agent-tutorial](https://github.com/SWE-agent/minimal-agent-tutorial) - Tutorial on how to build a minimal software engineering agent that still scores high on SWE-bench verified
 - [Woysful/Marathon-Grub-Themes](https://github.com/Woysful/Marathon-Grub-Themes) - Marathon styled set of themes for GRUB bootloader
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
@@ -671,7 +672,7 @@
 - [beilunyang/moemail](https://github.com/beilunyang/moemail) - A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
 - [Bluemangoo/shards](https://github.com/Bluemangoo/shards) - 利用 mcp 而非回复内容发消息的 qq 聊天机器人，具有多层复杂记忆。
 - [Monika-Dream/live-dashboard](https://github.com/Monika-Dream/live-dashboard) - 视监面板
-- [guokaigdg/animal-island-ui](https://github.com/guokaigdg/animal-island-ui) - Animal Crossing-style React UI component library, inspired by Nintendo's game visuals Vue version available.
+- [guokaigdg/animal-island-ui](https://github.com/guokaigdg/animal-island-ui) - Animal 风格的 React 组件库 灵感来源于任天堂《集合啦！动物森友会》 Vue 版同步发布 Animal Crossing-style React UI component library, inspired by Nintendo's game visuals Vue version available.
 - [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
 - [shuakami/qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter) - 🚀 QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
@@ -683,7 +684,7 @@
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [mogworks/xivplan](https://github.com/mogworks/xivplan) - Raid planning tool for Final Fantasy XIV
 - [LingyiChen-AI/DeepDiagram](https://github.com/LingyiChen-AI/DeepDiagram) - An open-source AI visualization tool that transforms natural language into Mind Maps, Mermaid diagrams, and Echarts. Turn your ideas into structured visuals instantly.
-- [DanKE123abc/NoUnityCN](https://github.com/DanKE123abc/NoUnityCN) - 🔥Unity国际版下载站，可通过直链或者Unity Hub下载例如Unity 6等Unity Editor的国际版，支持添加组件、下载国际版Unity Hub、包含长期支持版、技术支持版、测试版、预览版的Unity。
+- [DanKE123abc/NoUnityCN](https://github.com/DanKE123abc/NoUnityCN) - 🔥✅ Unity国际版下载站，可通过直链或者Unity Hub下载例如Unity 6等Unity Editor的国际版，支持添加组件、下载国际版Unity Hub、包含长期支持版、技术支持版、测试版、预览版的Unity。
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
