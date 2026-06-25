@@ -54,6 +54,7 @@
 
 ## C 
 
+- [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - Open-source modding framework for creating and managing Steam Client themes and plugins.
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [sidi762/smart-vendor](https://github.com/sidi762/smart-vendor) - Smart vending machine with non-contact interaction based on gesture recognition
 - [FcccBump/Traffic-Violation-Recognition-Based-on-Yolov2-with-Hi3516-H3861](https://github.com/FcccBump/Traffic-Violation-Recognition-Based-on-Yolov2-with-Hi3516-H3861) - 利用海思的Hi3516DV300和Hi3861V100，结合yolov2实现了对斑马线道路闯红灯和骑电动不佩戴头盔的情况识别，并提供亮灯警示和语音提醒。
@@ -93,7 +94,6 @@
 
 - [Nyabsi/OpenVR-SpaceOverride](https://github.com/Nyabsi/OpenVR-SpaceOverride) - Use your lighthouse devices on other headsets.
 - [apple/corecrypto](https://github.com/apple/corecrypto) - Apple corecrypto
-- [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - Open-source modding framework for creating and managing Steam Client themes and plugins.
 - [jark006/JarkViewer](https://github.com/jark006/JarkViewer) - 一款简约且飞快的看图软件，支持 AVIF、HEIC、JPEG-XL 和 实况照片 等超多新兴图像格式！A minimalist and lightning-fast image viewer that supports a wide range of emerging image formats such as AVIF, HEIC, JPEG-XL, and Live Photos!
 - [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
