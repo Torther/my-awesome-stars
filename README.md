@@ -559,6 +559,7 @@
 
 ## Rust 
 
+- [ShiroEirin/comfyui-good-anima](https://github.com/ShiroEirin/comfyui-good-anima) - 
 - [xmoezzz/rfvp](https://github.com/xmoezzz/rfvp) - A Non-Official Rust cross-platform implementation of the FVP engine & IDE
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
@@ -783,6 +784,7 @@
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 - [OpenWebGAL/WebGAL](https://github.com/OpenWebGAL/WebGAL) - A brand new web Visual Novel engine | 全新的网页端视觉小说引擎
+- [YunYouJun/sese-engine-ui](https://github.com/YunYouJun/sese-engine-ui) - 🔍 Sese engine ui. 色色搜索引擎 UI
 - [Innei/shuffle-article](https://github.com/Innei/shuffle-article) - Shuffle text in the DOM while preserving visual rendering for lightweight copy protection.
 - [mnixry/nonebot-plugin-gocqhttp](https://github.com/mnixry/nonebot-plugin-gocqhttp) - 一款在NoneBot2中直接运行go-cqhttp的插件, 无需额外下载安装 / A plugin to run go-cqhttp directly in NoneBot2, without additional download and installation.
 - [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more. :electron:
@@ -817,7 +819,6 @@
 - [SmallRuralDog/vue3-music](https://github.com/SmallRuralDog/vue3-music) - VUE3+TS 开发的音乐播放器，界面模仿QQ音乐mac客户端，支持黑夜模式
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It als
-- [YunYouJun/sese-engine-ui](https://github.com/YunYouJun/sese-engine-ui) - 🔍 Sese engine ui. 色色搜索引擎 UI
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 
