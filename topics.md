@@ -1389,6 +1389,8 @@
 
 ## others 
 
+- [XueshiQiao/AnyDrag](https://github.com/XueshiQiao/AnyDrag) - Modifier+drag to move any window smoothly on macOS, exactly like native speed
+- [palemoky/dnspick](https://github.com/palemoky/dnspick) - 🚀 Pick the DNS that fits you
 - [ShiroEirin/comfyui-good-anima](https://github.com/ShiroEirin/comfyui-good-anima) - 
 - [SWE-agent/minimal-agent-tutorial](https://github.com/SWE-agent/minimal-agent-tutorial) - Tutorial on how to build a minimal software engineering agent that still scores high on SWE-bench verified
 - [chunqiuyiyu/sekrun](https://github.com/chunqiuyiyu/sekrun) - A coding agent CLI powered by DeepSeek V4 Flash
