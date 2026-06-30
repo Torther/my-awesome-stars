@@ -143,6 +143,7 @@
 
 ## Go 
 
+- [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen.
 - [palemoky/dnspick](https://github.com/palemoky/dnspick) - 🚀 Pick the DNS that fits you
 - [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
@@ -260,6 +261,7 @@
 
 ## JavaScript 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [chunqiuyiyu/sekrun](https://github.com/chunqiuyiyu/sekrun) - A coding agent CLI powered by DeepSeek V4 Flash
 - [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
@@ -664,6 +666,7 @@
 
 ## TypeScript 
 
+- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [BITJEBE/nezha-BITJEBE](https://github.com/BITJEBE/nezha-BITJEBE) - Customized Komari Monitor theme based on nezha-dash-v1
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [do-md/domd](https://github.com/do-md/domd) - 
