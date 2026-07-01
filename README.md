@@ -647,7 +647,7 @@
 ## Swift 
 
 - [XueshiQiao/AnyDrag](https://github.com/XueshiQiao/AnyDrag) - Modifier+drag to move any window smoothly on macOS, exactly like native speed
-- [microsoft/SwiftStreamingMarkdown](https://github.com/microsoft/SwiftStreamingMarkdown) - A performant markdown library for iOS that supports streaming
+- [microsoft/SwiftStreamingMarkdown](https://github.com/microsoft/SwiftStreamingMarkdown) - A performant markdown library for iOS & MacOS that supports streaming
 - [duongductrong/Snapzy](https://github.com/duongductrong/Snapzy) - An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
