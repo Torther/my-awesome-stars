@@ -415,6 +415,7 @@
 - [icon11-community/Folder-Ico](https://github.com/icon11-community/Folder-Ico) - Ico repository for Folder11
 - [lxgw/LxgwZhenKai](https://github.com/lxgw/LxgwZhenKai) - 霞鹜臻楷：基于「霞鹜文楷」衍生，前期手动加粗调整字形，后期由 AI 生成字形辅助补字的开源中文字体。A bolder weight, AI-assisted font derived from LXGW Wenkai.
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
+- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套自动化域名规则提交机器人。
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
 - [aliyun-node/Node.js-Troubleshooting-Guide](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide) - Node.js 应用线上/线下故障、压测问题和性能调优指南手册（一期更新结束）
@@ -618,7 +619,7 @@
 - [VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI) - 云编译OpenWRT开源固件
 - [stupidloud/nanopi-openwrt](https://github.com/stupidloud/nanopi-openwrt) - Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩
 - [nakixii/Magisk_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) - 
-- [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria2一键搞定。
+- [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hi  Hysteria! 科学上网服务器速度不佳？一键搞定 | One-click Hysteria2 installer & manager | i18n (English/中文/فارسی/Выберите язык) | mihomo & sing-box client config | Realm P2P | WARP
 - [reeceyng/v2ray-agent](https://github.com/reeceyng/v2ray-agent) - 【纯净版】原八合一共存脚本，去除广告等推广信息，支持xtls-rprx-vision
 - [zthxxx/jovial](https://github.com/zthxxx/jovial) - Jovial - A lovely zsh theme with responsive-design, it's pretty fast, keep simple but useful
 - [8838/btpanel-v7.7.0](https://github.com/8838/btpanel-v7.7.0) - 宝塔v7.7.0官方原版备份
