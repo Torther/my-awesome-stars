@@ -234,6 +234,7 @@
 ## agent 
 
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- [do-md/domd](https://github.com/do-md/domd) - 20KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
 - [yjl9903/AnimeGarden](https://github.com/yjl9903/AnimeGarden) - 動漫花園 镜像站 | 动画 BT 资源聚合站 | 动画 BT 资源开放接口
@@ -254,6 +255,7 @@
 ## ai 
 
 - [microsoft/SwiftStreamingMarkdown](https://github.com/microsoft/SwiftStreamingMarkdown) - A performant markdown library for iOS & macOS that supports streaming
+- [do-md/domd](https://github.com/do-md/domd) - 20KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
@@ -1194,6 +1196,7 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [microsoft/SwiftStreamingMarkdown](https://github.com/microsoft/SwiftStreamingMarkdown) - A performant markdown library for iOS & macOS that supports streaming
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- [do-md/domd](https://github.com/do-md/domd) - 20KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [antvis/Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
@@ -1218,6 +1221,7 @@
 ## macos 
 
 - [microsoft/SwiftStreamingMarkdown](https://github.com/microsoft/SwiftStreamingMarkdown) - A performant markdown library for iOS & macOS that supports streaming
+- [do-md/domd](https://github.com/do-md/domd) - 20KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -1235,6 +1239,7 @@
 ## markdown 
 
 - [microsoft/SwiftStreamingMarkdown](https://github.com/microsoft/SwiftStreamingMarkdown) - A performant markdown library for iOS & macOS that supports streaming
+- [do-md/domd](https://github.com/do-md/domd) - 20KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.
 - [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - 🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
@@ -1431,7 +1436,6 @@
 - [BITJEBE/nezha-BITJEBE](https://github.com/BITJEBE/nezha-BITJEBE) - Customized Komari Monitor theme based on nezha-dash-v1
 - [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk) - Based on the sing-box core, this Android proxy module supports one-click start/stop of transparent proxy and is designed for Android devices.
 - [Woysful/Marathon-Grub-Themes](https://github.com/Woysful/Marathon-Grub-Themes) - Marathon styled set of themes for GRUB bootloader
-- [do-md/domd](https://github.com/do-md/domd) - 
 - [foru17/make-x-great-again](https://github.com/foru17/make-x-great-again) - Make X Great Again — passive ambient browser extension that makes X usable: spam shield, KOL signal score, profile digest, social graph hints. Public-good, open source.
 - [apple/corecrypto](https://github.com/apple/corecrypto) - Apple corecrypto
 - [vikingmute/better-wechatpay](https://github.com/vikingmute/better-wechatpay) - 现代化的微信支付 Node.js SDK - ESM、TypeScript、全支付方式支持
@@ -1814,6 +1818,7 @@
 
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
+- [do-md/domd](https://github.com/do-md/domd) - 20KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
@@ -2071,6 +2076,7 @@
 ## typescript 
 
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- [do-md/domd](https://github.com/do-md/domd) - 20KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [liumengniu/majiang](https://github.com/liumengniu/majiang) - laya3.x引擎 + nodejs 开发的网络麻将，省去了大量复杂配置，极其适合上手
