@@ -618,7 +618,7 @@
 - [soulteary/docker-sso-server](https://github.com/soulteary/docker-sso-server) - Lightweight 🪶 self-hosted SSO server, resource utilization rate is &lt;1% CPU, MEM &lt;15 M
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - A comprehensive OpenClash subscription conversion template and a well-designed OpenClash configuration example that deliver precise traffic routing, DNS with no poisoning or leaks, and fast access to 
+- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - An OpenClash-focused configuration and resource repository featuring setup guides, subscription conversion templates, rule snippets, utility scripts, overwrite resources, IPv6 guidance, and troublesho
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer Microsoft Office For MacOS
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
@@ -678,6 +678,7 @@
 
 ## TypeScript 
 
+- [St0ff3l/fileterm](https://github.com/St0ff3l/fileterm) - FileTerm (formerly TermDock): a modern desktop remote workspace for SSH, SFTP, and FTP. • FileTerm（原 TermDock）：面向 SSH、SFTP 和 FTP 的现代桌面远程工作台。
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [BITJEBE/nezha-BITJEBE](https://github.com/BITJEBE/nezha-BITJEBE) - Customized Komari Monitor theme based on nezha-dash-v1
