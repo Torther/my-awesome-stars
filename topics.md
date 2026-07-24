@@ -471,7 +471,7 @@
 
 - [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
 - [yyhhyyyyyy/selfproxy](https://github.com/yyhhyyyyyy/selfproxy) - 自用代理工具配置仓库，包含Mihomo(Clash)、Surge等工具的优化配置文件与使用指南。
-- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - A comprehensive OpenClash subscription conversion template and a well-designed OpenClash configuration example that deliver precise traffic routing, DNS with no poisoning or leaks, and fast access to 
+- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - An OpenClash-focused configuration and resource repository featuring setup guides, subscription conversion templates, rule snippets, utility scripts, overwrite resources, IPv6 guidance, and troublesho
 
 ## claude 
 
@@ -1820,6 +1820,7 @@
 
 ## react 
 
+- [St0ff3l/fileterm](https://github.com/St0ff3l/fileterm) - FileTerm (formerly TermDock): a modern desktop remote workspace for SSH, SFTP, and FTP. • FileTerm（原 TermDock）：面向 SSH、SFTP 和 FTP 的现代桌面远程工作台。
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [do-md/domd](https://github.com/do-md/domd) - 20KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.
@@ -1879,6 +1880,7 @@
 
 ## rust 
 
+- [St0ff3l/fileterm](https://github.com/St0ff3l/fileterm) - FileTerm (formerly TermDock): a modern desktop remote workspace for SSH, SFTP, and FTP. • FileTerm（原 TermDock）：面向 SSH、SFTP 和 FTP 的现代桌面远程工作台。
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
@@ -2059,6 +2061,7 @@
 
 ## terminal 
 
+- [St0ff3l/fileterm](https://github.com/St0ff3l/fileterm) - FileTerm (formerly TermDock): a modern desktop remote workspace for SSH, SFTP, and FTP. • FileTerm（原 TermDock）：面向 SSH、SFTP 和 FTP 的现代桌面远程工作台。
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
@@ -2083,6 +2086,7 @@
 
 ## typescript 
 
+- [St0ff3l/fileterm](https://github.com/St0ff3l/fileterm) - FileTerm (formerly TermDock): a modern desktop remote workspace for SSH, SFTP, and FTP. • FileTerm（原 TermDock）：面向 SSH、SFTP 和 FTP 的现代桌面远程工作台。
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [do-md/domd](https://github.com/do-md/domd) - 20KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
