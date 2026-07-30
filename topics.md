@@ -1461,7 +1461,7 @@
 - [abc1763613206/QQFaceHelper](https://github.com/abc1763613206/QQFaceHelper) - 自用 QQ上架表情包下载
 - [Monika-Dream/live-dashboard](https://github.com/Monika-Dream/live-dashboard) - 视监面板
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
-- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 - [jiweiyuan/tunelo](https://github.com/jiweiyuan/tunelo) - Tunnel Tool, faster than frp, cloudflared, ngrok
 - [project-vrcz/content-publisher](https://github.com/project-vrcz/content-publisher) - Publish your vrchat content in a more efficient way
 - [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
@@ -1641,7 +1641,7 @@
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [MapleDust/VelocityChat](https://github.com/MapleDust/VelocityChat) - 一个我的世界Velocity群组跨服聊天的插件
 - [garywill/cc-visualize](https://github.com/garywill/cc-visualize) - 既适合程序员，也适合中文电子文字整编人员(in beta)。汉字繁、简、异、兼、笔、变等关联关系可视化。非寻常汉字字符、同形字符攻击、不可打印字符等检视工具。结合OpenCC、Unicode等数据 | Chinese characters relations or vatiants (simplified, traditional etc) visualization. Potential Uni
-- [rin0chan/KFC-Crazy-Thursday](https://github.com/rin0chan/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
+- [totoneei/KFC-Crazy-Thursday](https://github.com/totoneei/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
 - [kchown/naiveboom](https://github.com/kchown/naiveboom) - 无需注册的阅后即焚，让Naive的事情不再发生
 - [moesoha/debian-media-box](https://github.com/moesoha/debian-media-box) - “Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。
 - [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
