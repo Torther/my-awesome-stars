@@ -522,7 +522,7 @@
 - [Project-Babble/ProjectBabble](https://github.com/Project-Babble/ProjectBabble) - A DIY mouth tracking method for VR
 - [Moemu/Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot) - 沐雪，一个会自动找你聊天的AI女孩子
 - [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
-- [trzsz/trzsz](https://github.com/trzsz/trzsz) - trzsz is a simple file transfer tools, similar to lrzsz ( rz / sz ), and compatible with tmux.
+- [trzsz/trzsz](https://github.com/trzsz/trzsz) - trzsz ( trz / tsz ) is a simple file transfer tool, similar to lrzsz ( rz / sz ), but compatible with tmux.
 - [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, K8S, PyPI, PyTorch, and NPM.
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据, 音乐刮削。（Editable local music file metadata.）
@@ -620,7 +620,7 @@
 
 ## Shell 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
 - [you8023/docker_images_sync](https://github.com/you8023/docker_images_sync) - docker镜像一键拉取，无需梯子/服务器，无数量限制docker images sync workflow and scripts
 - [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 一分钟私有部署zerotier-planet服务
