@@ -534,7 +534,7 @@
 
 ## command-line 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 
@@ -584,6 +584,7 @@
 
 ## css 
 
+- [davatron5000/microlighter](https://github.com/davatron5000/microlighter) - A zero-dep syntax highlighter that uses the CSS Highlights API
 - [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~10KB min+gz.
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
@@ -1229,7 +1230,7 @@
 
 ## mac 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 
 ## macos 
@@ -1237,7 +1238,7 @@
 - [wutongyuonce/RepoMirror](https://github.com/wutongyuonce/RepoMirror) - 一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树｜A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree
 - [microsoft/SwiftStreamingMarkdown](https://github.com/microsoft/SwiftStreamingMarkdown) - A performant markdown library for iOS & macOS that supports streaming
 - [do-md/domd](https://github.com/do-md/domd) - 30KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six platforms, with dynamic delivery.
@@ -1440,6 +1441,7 @@
 
 ## others 
 
+- [littledivy/dgit](https://github.com/littledivy/dgit) - Git forge on Durable Objects
 - [Jaksay/Linux-Router](https://github.com/Jaksay/Linux-Router) - 
 - [fashionzzZ/linuxdo-read-script](https://github.com/fashionzzZ/linuxdo-read-script) - 在 LINUX DO 列表页点击标题即可弹窗预览整帖，楼中楼展示、点赞、回复、收藏、Boost、原图灯箱一应俱全；支持智能定位（首次从头、已读跳未读、通知直达指定楼层），按需双向分片加载，向上翻时零跳动，底部固定工具栏，并按真实阅读节奏上报已读进度——无需离开列表页，也无需反复返回。
 - [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
@@ -1968,7 +1970,7 @@
 
 ## shell 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
 - [rayworks/DroidCast](https://github.com/rayworks/DroidCast) - An experimental demo for capturing and displaying screenshot of an Android device / emulator without ROOT permission.
 
@@ -2037,12 +2039,14 @@
 ## swift 
 
 - [microsoft/SwiftStreamingMarkdown](https://github.com/microsoft/SwiftStreamingMarkdown) - A performant markdown library for iOS & macOS that supports streaming
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 
 ## swiftui 
 
 - [microsoft/SwiftStreamingMarkdown](https://github.com/microsoft/SwiftStreamingMarkdown) - A performant markdown library for iOS & macOS that supports streaming
 - [duongductrong/Snapzy](https://github.com/duongductrong/Snapzy) - An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 
 ## tailwind 
