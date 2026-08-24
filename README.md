@@ -628,7 +628,7 @@
 - [soulteary/docker-sso-server](https://github.com/soulteary/docker-sso-server) - Lightweight 🪶 self-hosted SSO server, resource utilization rate is &lt;1% CPU, MEM &lt;15 M
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 面向 OpenClash 用户的综合配置与扩展资源库，提供图文设置方案、订阅转换模板、YAML 配置示例与远程 YAML 部署方式，收录直连、代理、Steam CDN、加密 DNS 及游戏等规则碎片，并配套 OpenClash 安装、更新与架构检测脚本、覆写模块资源，以及 IPv6 配置方案和故障排除文档。
+- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 面向 OpenClash 用户的配置、订阅转换模板、YAML、规则、覆写模块、脚本与中文教程。
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer Microsoft Office For MacOS
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
