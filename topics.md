@@ -1440,7 +1440,7 @@
 
 ## others 
 
-- [littledivy/dgit](https://github.com/littledivy/dgit) - Git forge on Durable Objects
+- [littledivy/durable-git](https://github.com/littledivy/durable-git) - Git forge on Durable Objects
 - [Jaksay/Linux-Router](https://github.com/Jaksay/Linux-Router) - 
 - [fashionzzZ/linuxdo-read-script](https://github.com/fashionzzZ/linuxdo-read-script) - 在 LINUX DO 列表页点击标题即可弹窗预览整帖，楼中楼展示、点赞、回复、收藏、Boost、原图灯箱一应俱全；支持智能定位（首次从头、已读跳未读、通知直达指定楼层），按需双向分片加载，向上翻时零跳动，底部固定工具栏，并按真实阅读节奏上报已读进度——无需离开列表页，也无需反复返回。
 - [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
