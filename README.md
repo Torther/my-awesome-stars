@@ -57,7 +57,7 @@
 ## C 
 
 - [FreeXR/eureka_panther-adreno-gpu-exploit-1](https://github.com/FreeXR/eureka_panther-adreno-gpu-exploit-1) - Our first exploit: a memory corruption vulnerability in the Adreno GPU driver for Eureka/Panther (3/3s) devices, enabling arbitrary kernel memory read/write and privilege escalation.
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [sidi762/smart-vendor](https://github.com/sidi762/smart-vendor) - Smart vending machine with non-contact interaction based on gesture recognition
 - [FcccBump/Traffic-Violation-Recognition-Based-on-Yolov2-with-Hi3516-H3861](https://github.com/FcccBump/Traffic-Violation-Recognition-Based-on-Yolov2-with-Hi3516-H3861) - 利用海思的Hi3516DV300和Hi3861V100，结合yolov2实现了对斑马线道路闯红灯和骑电动不佩戴头盔的情况识别，并提供亮灯警示和语音提醒。
@@ -711,7 +711,7 @@
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [jiweiyuan/tunelo](https://github.com/jiweiyuan/tunelo) - Tunnel Tool, faster than frp, cloudflared, ngrok
 - [liumengniu/majiang](https://github.com/liumengniu/majiang) - laya3.x引擎 + nodejs 开发的网络麻将，省去了大量复杂配置，极其适合上手
-- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [mogworks/xivplan](https://github.com/mogworks/xivplan) - Raid planning tool for Final Fantasy XIV
