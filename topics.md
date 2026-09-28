@@ -1458,6 +1458,7 @@
 
 ## others 
 
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 - [luestr/ProxyResource](https://github.com/luestr/ProxyResource) - 可莉的Loon资源库 | 插件 | 脚本 | 规则
 - [littledivy/durable-git](https://github.com/littledivy/durable-git) - Git forge on Durable Objects
 - [Jaksay/Linux-Router](https://github.com/Jaksay/Linux-Router) - 
@@ -1915,6 +1916,7 @@
 
 ## rust 
 
+- [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [St0ff3l/fileterm](https://github.com/St0ff3l/fileterm) - A modern, lightweight remote desktop workspace for SSH, SFTP, and FTP/FTPS. Powered by Tauri, Rust, and React.
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
@@ -2305,6 +2307,7 @@
 
 ## windows 
 
+- [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [meetrevision/playbook](https://github.com/meetrevision/playbook) - A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility
