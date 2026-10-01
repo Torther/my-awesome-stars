@@ -235,7 +235,7 @@
 
 ## agent 
 
-- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
 - [do-md/domd](https://github.com/do-md/domd) - 30KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [yjl9903/AnimeGarden](https://github.com/yjl9903/AnimeGarden) - 動漫花園 镜像站 | 动画 BT 资源聚合站 | 动画 BT 资源开放接口
@@ -286,7 +286,7 @@
 ## ai-agent 
 
 - [microsoft/SwiftStreamingMarkdown](https://github.com/microsoft/SwiftStreamingMarkdown) - A performant markdown library for iOS & macOS that supports streaming
-- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
 - [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - AI deep-research agent that turns any question into a cited report: plans searches, reads real sources, verifies evidence. Self-hosted, multi-provider, Docker-ready.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 
@@ -503,7 +503,7 @@
 
 ## cli 
 
-- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
 - [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
@@ -650,7 +650,7 @@
 ## developer-tools 
 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -747,7 +747,7 @@
 
 - [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) - DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
-- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
 
 ## education 
 
@@ -973,6 +973,7 @@
 - [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
+- [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 - [mateosss/matter](https://github.com/mateosss/matter) - Customizable GRUB theme inspired by Material Design
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -1222,7 +1223,7 @@
 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [microsoft/SwiftStreamingMarkdown](https://github.com/microsoft/SwiftStreamingMarkdown) - A performant markdown library for iOS & macOS that supports streaming
-- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
 - [do-md/domd](https://github.com/do-md/domd) - 30KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [antvis/Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
@@ -2112,7 +2113,7 @@
 
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [St0ff3l/fileterm](https://github.com/St0ff3l/fileterm) - A modern, lightweight remote desktop workspace for SSH, SFTP, and FTP/FTPS. Powered by Tauri, Rust, and React.
-- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
@@ -2129,7 +2130,7 @@
 
 ## tui 
 
-- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
@@ -2137,7 +2138,7 @@
 ## typescript 
 
 - [St0ff3l/fileterm](https://github.com/St0ff3l/fileterm) - A modern, lightweight remote desktop workspace for SSH, SFTP, and FTP/FTPS. Powered by Tauri, Rust, and React.
-- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
 - [do-md/domd](https://github.com/do-md/domd) - 30KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
 - [guokaigdg/animal-island-ui](https://github.com/guokaigdg/animal-island-ui) - A Kawaii React UI component library  一个可爱的 React UI 组件库
