@@ -489,6 +489,7 @@
 
 ## Python 
 
+- [ChaoticSi1ence/SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo) - Debloat and harden Brave Browser on Linux, macOS, and Windows using Chromium enterprise policies. Curses TUI on Linux/macOS, native GUI on Windows. 79 policies, 6 presets, zero dependencies.
 - [Jaksay/Linux-Router](https://github.com/Jaksay/Linux-Router) - 
 - [fashionzzZ/linuxdo-read-script](https://github.com/fashionzzZ/linuxdo-read-script) - 在 LINUX DO 列表页点击标题即可弹窗预览整帖，楼中楼展示、点赞、回复、收藏、Boost、原图灯箱一应俱全；支持智能定位（首次从头、已读跳未读、通知直达指定楼层），按需双向分片加载，向上翻时零跳动，底部固定工具栏，并按真实阅读节奏上报已读进度——无需离开列表页，也无需反复返回。
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
