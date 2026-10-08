@@ -1464,6 +1464,7 @@
 
 ## others 
 
+- [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) - Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 - [luestr/ProxyResource](https://github.com/luestr/ProxyResource) - 可莉的Loon资源库 | 插件 | 脚本 | 规则
 - [littledivy/durable-git](https://github.com/littledivy/durable-git) - Git forge on Durable Objects
