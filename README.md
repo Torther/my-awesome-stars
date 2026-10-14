@@ -57,6 +57,7 @@
 
 ## C 
 
+- [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) - Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps
 - [FreeXR/eureka_panther-adreno-gpu-exploit-1](https://github.com/FreeXR/eureka_panther-adreno-gpu-exploit-1) - Our first exploit: a memory corruption vulnerability in the Adreno GPU driver for Eureka/Panther (3/3s) devices, enabling arbitrary kernel memory read/write and privilege escalation.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
@@ -706,7 +707,7 @@
 - [do-md/domd](https://github.com/do-md/domd) - 30KB Markdown-native WYSIWYG editor for React, built for AI streaming, human editing, huge files, macOS, Web, and agent workflows.
 - [foru17/make-x-great-again](https://github.com/foru17/make-x-great-again) - Make X Great Again — passive ambient browser extension that makes X usable: spam shield, KOL signal score, profile digest, social graph hints. Public-good, open source.
 - [vikingmute/better-wechatpay](https://github.com/vikingmute/better-wechatpay) - 现代化的微信支付 Node.js SDK - ESM、TypeScript、全支付方式支持
-- [setube/stackprism](https://github.com/setube/stackprism) - StackPrism是一款用于检测网页技术栈的浏览器插件。
+- [setube/stackprism](https://github.com/setube/stackprism) - StackPrism is a browser extension for detecting website technology stacks.
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器
 - [beilunyang/moemail](https://github.com/beilunyang/moemail) - A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
 - [Bluemangoo/shards](https://github.com/Bluemangoo/shards) - 利用 mcp 而非回复内容发消息的 qq 聊天机器人，具有多层复杂记忆。
