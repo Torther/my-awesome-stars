@@ -57,6 +57,7 @@
 
 ## C 
 
+- [AstraThreshold/oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C++.
 - [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 - [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) - Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls
 - [FreeXR/eureka_panther-adreno-gpu-exploit-1](https://github.com/FreeXR/eureka_panther-adreno-gpu-exploit-1) - Our first exploit: a memory corruption vulnerability in the Adreno GPU driver for Eureka/Panther (3/3s) devices, enabling arbitrary kernel memory read/write and privilege escalation.
@@ -76,6 +77,7 @@
 ## C# # 
 
 - [mgth/LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Aware mouse move across screens
+- [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [project-vrcz/content-publisher](https://github.com/project-vrcz/content-publisher) - Publish your vrchat content in a more efficient way
 - [DelvUI/DelvUI](https://github.com/DelvUI/DelvUI) - DelvUI is a Dalamud plugin for Final Fantasy XIV that provides a fully customizable replacement for the default UI.
 - [AtmoOmen/FFXIV-IMDic-Generator-CN](https://github.com/AtmoOmen/FFXIV-IMDic-Generator-CN) - FF14 专有名词 中文输入法 自定义词库 生成器
@@ -217,6 +219,7 @@
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [itorr/sojo](https://github.com/itorr/sojo) - 💊「逼死前端狗」听说你是前端工程师？
 - [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
+- [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛拉丁与泛中日韩像素字体，黑体风格
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
@@ -285,7 +288,6 @@
 - [DSPCalculator/dsp-calc](https://github.com/DSPCalculator/dsp-calc) - 戴森球计划量化计算器(新UI版)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [chunqiuyiyu/sekrun](https://github.com/chunqiuyiyu/sekrun) - A coding agent CLI powered by DeepSeek V4 Flash
-- [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
 - [vikiboss/r2-web](https://github.com/vikiboss/r2-web) - 📁 轻盈优雅的 Web 原生 Cloudflare R2 桶文件管理器，一切皆在浏览器中完成。 | 📁 A lightweight, elegant, pure-browser Cloudflare R2 file manager. Everything happens right in your browser.
 - [panyiwei-home/Friendeck](https://github.com/panyiwei-home/Friendeck) - A powerful Decky Loader plugin designed to solve the file transfer and management challenges between Steam Deck and other devices. Manage files and sync text easily via browser without data cables.
@@ -301,6 +303,7 @@
 - [yyhhyyyyyy/selfproxy](https://github.com/yyhhyyyyyy/selfproxy) - 自用代理工具配置仓库，包含Mihomo(Clash)、Surge等工具的优化配置文件与使用指南。
 - [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate) - Review-Gate V2 is a powerful rule for the Cursor IDE that helps you get up to 5x more value from your monthly requests. It creates an interactive loop where the AI waits for your follow-up commands—vi
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
 - [iGaoWei/BigDataView](https://github.com/iGaoWei/BigDataView) - 100+套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中
 - [jeffbski/wait-on](https://github.com/jeffbski/wait-on) - wait-on is a cross-platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available
@@ -557,7 +560,6 @@
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界
-- [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛拉丁与泛中日韩像素字体，黑体风格
 - [legendary-gl/legendary](https://github.com/legendary-gl/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 - [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
@@ -583,6 +585,7 @@
 
 ## Rust 
 
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
 - [Haleclipse/CometixCode](https://github.com/Haleclipse/CometixCode) - An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft
 - [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 - [wutongyuonce/RepoMirror](https://github.com/wutongyuonce/RepoMirror) - 一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树｜A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree
@@ -752,7 +755,6 @@
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
 - [uni-helper/vite-plugin-uni-layouts](https://github.com/uni-helper/vite-plugin-uni-layouts) - 为 Vite 下的 uni-app 提供类 nuxt 的 layouts 系统
 - [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [motiondivision/motion-vue](https://github.com/motiondivision/motion-vue) - Motion for Vue
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
@@ -811,7 +813,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
+- [dubinc/dub.link](https://github.com/dubinc/dub.link) - The modern link attribution platform. Loved by world-class engineering teams at Twilio, Zillow, Jobber, Vercel, Raycast, and more.
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
