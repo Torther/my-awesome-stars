@@ -57,6 +57,7 @@
 
 ## C 
 
+- [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput
 - [AstraThreshold/oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C++.
 - [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) - Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls
 - [FreeXR/eureka_panther-adreno-gpu-exploit-1](https://github.com/FreeXR/eureka_panther-adreno-gpu-exploit-1) - Our first exploit: a memory corruption vulnerability in the Adreno GPU driver for Eureka/Panther (3/3s) devices, enabling arbitrary kernel memory read/write and privilege escalation.
@@ -677,7 +678,6 @@
 
 - [microsoft/Procexp-Mac](https://github.com/microsoft/Procexp-Mac) - Process Explorer for MacOS
 - [harkhowalia-1/MacSubsystemForAndroid](https://github.com/harkhowalia-1/MacSubsystemForAndroid) - Run Android apps on your Mac like Mac apps: each in its own window with its own Dock icon, on Apple silicon. Notifications, game controllers, privacy controls. Free & open source (LineageOS + QEMU + s
-- [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
 - [jasonwong1991/WonderBox](https://github.com/jasonwong1991/WonderBox) - A native macOS system toolkit: honest memory optimization, deep cleanup that finds the real space hogs, fan control, keep-awake, disk analyzer.
 - [Sitoi/ClashBar](https://github.com/Sitoi/ClashBar) - 原生 macOS 菜单栏代理客户端，基于 SwiftUI + AppKit，由 mihomo 驱动。 轻量、稳定，在菜单栏完成配置、节点、规则、连接与系统代理管理。
