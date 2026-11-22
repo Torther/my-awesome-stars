@@ -114,6 +114,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [https](#https)
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
@@ -911,11 +912,11 @@
 
 ## game-engine 
 
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 
 ## gamedev 
 
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [hexianWeb/CubeCity](https://github.com/hexianWeb/CubeCity) - A city waiting to be built by you 🏙️🔨✨. Threejs Version (一个等着被你建造的城市)
 
 ## games 
@@ -1086,6 +1087,10 @@
 - [akirarika/milkio](https://github.com/akirarika/milkio) - 🌟 A TypeScript Framework - Now, break the boundaries between Frontend and Backend
 - [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
 
+## https 
+
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
+
 ## image-processing 
 
 - [junevm/splathash](https://github.com/junevm/splathash) - 16 bytes fixed size image placeholder, an alternative to blurhash and thumbhash
@@ -1227,6 +1232,7 @@
 
 ## kubernetes 
 
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortl
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -1261,7 +1267,7 @@
 ## linux 
 
 - [21stware/bowel](https://github.com/21stware/bowel) - Bowel is a mihomo client for macOS, Windows, Linux and Android.
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [ChaoticSi1ence/SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo) - Debloat and harden Brave Browser on Linux, macOS, and Windows using Chromium enterprise policies. Curses TUI on Linux/macOS, native GUI on Windows. 79 policies, 6 presets, zero dependencies.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native development environment
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher
@@ -1330,6 +1336,7 @@
 - [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs
 - [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) - Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls
 - [ChaoticSi1ence/SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo) - Debloat and harden Brave Browser on Linux, macOS, and Windows using Chromium enterprise policies. Curses TUI on Linux/macOS, native GUI on Windows. 79 policies, 6 presets, zero dependencies.
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
 - [jasonwong1991/WonderBox](https://github.com/jasonwong1991/WonderBox) - A native macOS system toolkit: honest memory optimization, deep cleanup that finds the real space hogs, fan control, keep-awake, disk analyzer.
 - [Sitoi/ClashBar](https://github.com/Sitoi/ClashBar) - 原生 macOS 菜单栏代理客户端，基于 SwiftUI + AppKit，由 mihomo 驱动。 轻量、稳定，在菜单栏完成配置、节点、规则、连接与系统代理管理。
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native development environment
@@ -1414,7 +1421,7 @@
 
 ## minecraft 
 
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
@@ -1449,6 +1456,7 @@
 
 ## mysql 
 
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your o
 - [valarchie/AgileBoot-Back-End](https://github.com/valarchie/AgileBoot-Back-End) - 🔥   规范易于二开的全栈基础快速开发脚手架。🔥  采用Springboot + Vue 3 + Typescript + Mybatis Plus + Redis + 更面向对象的业务建模 + 面向生产的项目（非玩具项目）。你的 ⭐️ Star ⭐️，是作者更新的动力！ 欢迎小伙伴PR，一起构建一个规范的全栈项目~😆
@@ -1560,7 +1568,6 @@
 - [shuaizenge/ai-girls](https://github.com/shuaizenge/ai-girls) - ai娘素材仓库
 - [SukkaW/Make-Bilibili-Great-Than-Ever-Before](https://github.com/SukkaW/Make-Bilibili-Great-Than-Ever-Before) - A fork of the userscript "Make Bilibili Great Again", but with some experimental features
 - [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) - Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
 - [luestr/ProxyResource](https://github.com/luestr/ProxyResource) - 可莉的Loon资源库 | 插件 | 脚本 | 规则
 - [littledivy/durable-git](https://github.com/littledivy/durable-git) - Git forge on Durable Objects
 - [Jaksay/Linux-Router](https://github.com/Jaksay/Linux-Router) - 
@@ -1876,6 +1883,7 @@
 
 ## productivity 
 
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -2016,9 +2024,10 @@
 
 ## rust 
 
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
 - [DEEIX-AI/Winc](https://github.com/DEEIX-AI/Winc) - Winc is built with Rust and its own rendering engine: it starts in 0.1 seconds and uses just 52 MB of memory with 100,000 lines open. Multiple cursors, find and replace, and side-by-side diffs are all
 - [monitor-probe/monitor](https://github.com/monitor-probe/monitor) - 用 Rust 写的轻量级服务器探针 (Rust + axum + SQLite)
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [sigoden/window-switcher](https://github.com/sigoden/window-switcher) - Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native development environment
 - [St0ff3l/fileterm](https://github.com/St0ff3l/fileterm) - A modern, lightweight remote desktop workspace for SSH, SFTP, and FTP/FTPS. Powered by Tauri, Rust, and React.
@@ -2181,6 +2190,7 @@
 ## swift 
 
 - [harkhowalia-1/MacSubsystemForAndroid](https://github.com/harkhowalia-1/MacSubsystemForAndroid) - Run Android apps on your Mac like Mac apps: each in its own window with its own Dock icon, on Apple silicon. Notifications, game controllers, privacy controls. Free & open source (LineageOS + QEMU + s
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
 - [jasonwong1991/WonderBox](https://github.com/jasonwong1991/WonderBox) - A native macOS system toolkit: honest memory optimization, deep cleanup that finds the real space hogs, fan control, keep-awake, disk analyzer.
 - [microsoft/SwiftStreamingMarkdown](https://github.com/microsoft/SwiftStreamingMarkdown) - A performant markdown library for iOS & macOS that supports streaming
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
